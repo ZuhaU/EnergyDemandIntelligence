@@ -1,0 +1,2040 @@
+date,source,generation_gwh,unit
+2012-07-01,Electricity Generation by Coal,10.863, GWh
+2012-07-01,Electricity Generation by Gas,2146.974857, GWh
+2012-07-01,Electricity Generation by High Speed Diesel (HSD),156.795194, GWh
+2012-07-01,Electricity Generation by Hydel,3306.11395, GWh
+2012-07-01,Electricity Generation by Mixed,92.007189, GWh
+2012-07-01,Electricity Generation by Nuclear,334.93, GWh
+2012-07-01,Electricity Generation by Residual Fuel Oil (RFO),3279.089374, GWh
+2012-07-01,Electricity Generation by Wind,0.704, GWh
+2012-07-01,Electricity Generation by bagasse,0.0, GWh
+2012-07-01,Electricity imported from Iran,36.963484, GWh
+2012-07-01,Total Electricity Generation by all Sources,9364.441048, GWh
+2012-08-01,Electricity Generation by Coal,6.916, GWh
+2012-08-01,Electricity Generation by Gas,2213.447871, GWh
+2012-08-01,Electricity Generation by High Speed Diesel (HSD),126.111441, GWh
+2012-08-01,Electricity Generation by Hydel,3738.70169, GWh
+2012-08-01,Electricity Generation by Mixed,80.865723, GWh
+2012-08-01,Electricity Generation by Nuclear,338.9, GWh
+2012-08-01,Electricity Generation by Residual Fuel Oil (RFO),2879.219934, GWh
+2012-08-01,Electricity Generation by Wind,0.56, GWh
+2012-08-01,Electricity Generation by bagasse,0.0, GWh
+2012-08-01,Electricity imported from Iran,37.628359, GWh
+2012-08-01,Total Electricity Generation by all Sources,9422.351018, GWh
+2012-09-01,Electricity Generation by Coal,0.0, GWh
+2012-09-01,Electricity Generation by Gas,1644.067572, GWh
+2012-09-01,Electricity Generation by High Speed Diesel (HSD),127.282131, GWh
+2012-09-01,Electricity Generation by Hydel,3623.535999, GWh
+2012-09-01,Electricity Generation by Mixed,82.765788, GWh
+2012-09-01,Electricity Generation by Nuclear,428.043, GWh
+2012-09-01,Electricity Generation by Residual Fuel Oil (RFO),2398.782716, GWh
+2012-09-01,Electricity Generation by Wind,0.336, GWh
+2012-09-01,Electricity Generation by bagasse,0.0, GWh
+2012-09-01,Electricity imported from Iran,32.860724, GWh
+2012-09-01,Total Electricity Generation by all Sources,8337.67393, GWh
+2012-10-01,Electricity Generation by Coal,6.394, GWh
+2012-10-01,Electricity Generation by Gas,1732.835344, GWh
+2012-10-01,Electricity Generation by High Speed Diesel (HSD),110.602603, GWh
+2012-10-01,Electricity Generation by Hydel,3098.300582, GWh
+2012-10-01,Electricity Generation by Mixed,87.602298, GWh
+2012-10-01,Electricity Generation by Nuclear,436.725, GWh
+2012-10-01,Electricity Generation by Residual Fuel Oil (RFO),2401.436967, GWh
+2012-10-01,Electricity Generation by Wind,0.176, GWh
+2012-10-01,Electricity imported from Iran,32.555799, GWh
+2012-10-01,Total Electricity Generation by all Sources,7906.628593, GWh
+2012-11-01,Electricity Generation by Coal,6.589, GWh
+2012-11-01,Electricity Generation by Gas,1472.595494, GWh
+2012-11-01,Electricity Generation by High Speed Diesel (HSD),177.45414, GWh
+2012-11-01,Electricity Generation by Hydel,2614.023368, GWh
+2012-11-01,Electricity Generation by Mixed,83.137427, GWh
+2012-11-01,Electricity Generation by Nuclear,432.873, GWh
+2012-11-01,Electricity Generation by Residual Fuel Oil (RFO),2092.353485, GWh
+2012-11-01,Electricity Generation by Wind,0.168, GWh
+2012-11-01,Electricity imported from Iran,28.690623, GWh
+2012-11-01,Total Electricity Generation by all Sources,6907.884537, GWh
+2012-12-01,Electricity Generation by Coal,2.515, GWh
+2012-12-01,Electricity Generation by Gas,1512.060795, GWh
+2012-12-01,Electricity Generation by High Speed Diesel (HSD),171.519675, GWh
+2012-12-01,Electricity Generation by Hydel,1655.771188, GWh
+2012-12-01,Electricity Generation by Mixed,107.103098, GWh
+2012-12-01,Electricity Generation by Nuclear,287.747, GWh
+2012-12-01,Electricity Generation by Residual Fuel Oil (RFO),2677.246223, GWh
+2012-12-01,Electricity Generation by Wind,0.336, GWh
+2012-12-01,Electricity imported from Iran,24.099029, GWh
+2012-12-01,Total Electricity Generation by all Sources,6438.398008, GWh
+2013-01-01,Electricity Generation by Coal,0.0, GWh
+2013-01-01,Electricity Generation by Gas,1672.622671, GWh
+2013-01-01,Electricity Generation by High Speed Diesel (HSD),163.204758, GWh
+2013-01-01,Electricity Generation by Hydel,1101.566145, GWh
+2013-01-01,Electricity Generation by Mixed,122.93961, GWh
+2013-01-01,Electricity Generation by Nuclear,84.729, GWh
+2013-01-01,Electricity Generation by Residual Fuel Oil (RFO),2998.941491, GWh
+2013-01-01,Electricity Generation by Wind,0.352, GWh
+2013-01-01,Electricity imported from Iran,26.222159, GWh
+2013-01-01,Total Electricity Generation by all Sources,6170.577834, GWh
+2013-02-01,Electricity Generation by Coal,0.0, GWh
+2013-02-01,Electricity Generation by Gas,1494.865648, GWh
+2013-02-01,Electricity Generation by High Speed Diesel (HSD),34.192377, GWh
+2013-02-01,Electricity Generation by Hydel,1611.816965, GWh
+2013-02-01,Electricity Generation by Mixed,109.682935, GWh
+2013-02-01,Electricity Generation by Nuclear,68.86, GWh
+2013-02-01,Electricity Generation by Residual Fuel Oil (RFO),2065.95621, GWh
+2013-02-01,Electricity Generation by Wind,0.48, GWh
+2013-02-01,Electricity imported from Iran,22.62996, GWh
+2013-02-01,Total Electricity Generation by all Sources,5408.484095, GWh
+2013-03-01,Electricity Generation by Coal,0.0, GWh
+2013-03-01,Electricity Generation by Gas,1618.672581, GWh
+2013-03-01,Electricity Generation by High Speed Diesel (HSD),37.533605, GWh
+2013-03-01,Electricity Generation by Hydel,1558.356763, GWh
+2013-03-01,Electricity Generation by Mixed,116.287078, GWh
+2013-03-01,Electricity Generation by Nuclear,222.205, GWh
+2013-03-01,Electricity Generation by Residual Fuel Oil (RFO),2607.391215, GWh
+2013-03-01,Electricity Generation by Wind,0.384, GWh
+2013-03-01,Electricity imported from Iran,29.271721, GWh
+2013-03-01,Total Electricity Generation by all Sources,6190.101963, GWh
+2013-04-01,Electricity Generation by Gas,1504.42, GWh
+2013-04-01,Electricity Generation by High Speed Diesel (HSD),109.17, GWh
+2013-04-01,Electricity Generation by Hydel,1872.61, GWh
+2013-04-01,Electricity Generation by Mixed,94.28, GWh
+2013-04-01,Electricity Generation by Nuclear,222.25, GWh
+2013-04-01,Electricity Generation by Residual Fuel Oil (RFO),2433.01, GWh
+2013-04-01,Electricity Generation by Wind,0.42, GWh
+2013-04-01,Electricity imported from Iran,29.04, GWh
+2013-04-01,Total Electricity Generation by all Sources,6265.2, GWh
+2013-05-01,Electricity Generation by Gas,1810.12, GWh
+2013-05-01,Electricity Generation by High Speed Diesel (HSD),60.87, GWh
+2013-05-01,Electricity Generation by Hydel,2404.3, GWh
+2013-05-01,Electricity Generation by Mixed,94.16, GWh
+2013-05-01,Electricity Generation by Nuclear,351.6, GWh
+2013-05-01,Electricity Generation by Residual Fuel Oil (RFO),2631.84, GWh
+2013-05-01,Electricity Generation by Wind,14.04, GWh
+2013-05-01,Electricity imported from Iran,37.1, GWh
+2013-05-01,Total Electricity Generation by all Sources,7404.03, GWh
+2013-06-01,Electricity Generation by Coal,6.36, GWh
+2013-06-01,Electricity Generation by Gas,1842.64, GWh
+2013-06-01,Electricity Generation by High Speed Diesel (HSD),28.49, GWh
+2013-06-01,Electricity Generation by Hydel,3447.77, GWh
+2013-06-01,Electricity Generation by Mixed,83.88, GWh
+2013-06-01,Electricity Generation by Nuclear,431.67, GWh
+2013-06-01,Electricity Generation by Residual Fuel Oil (RFO),2558.03, GWh
+2013-06-01,Electricity Generation by Wind,14.51, GWh
+2013-06-01,Electricity imported from Iran,38.07, GWh
+2013-06-01,Total Electricity Generation by all Sources,8451.42, GWh
+2013-07-01,Electricity Generation by Coal,10.86, GWh
+2013-07-01,Electricity Generation by Gas,2088.05, GWh
+2013-07-01,Electricity Generation by High Speed Diesel (HSD),53.79, GWh
+2013-07-01,Electricity Generation by Hydel,3966.18, GWh
+2013-07-01,Electricity Generation by Mixed,91.51, GWh
+2013-07-01,Electricity Generation by Nuclear,359.58, GWh
+2013-07-01,Electricity Generation by Residual Fuel Oil (RFO),3258.54, GWh
+2013-07-01,Electricity Generation by Wind,23.6, GWh
+2013-07-01,Electricity imported from Iran,42.24, GWh
+2013-07-01,Total Electricity Generation by all Sources,9894.35, GWh
+2013-08-01,Electricity Generation by Coal,13.25, GWh
+2013-08-01,Electricity Generation by Gas,1755.24, GWh
+2013-08-01,Electricity Generation by High Speed Diesel (HSD),139.07, GWh
+2013-08-01,Electricity Generation by Hydel,3969.05, GWh
+2013-08-01,Electricity Generation by Mixed,91.05, GWh
+2013-08-01,Electricity Generation by Nuclear,430.59, GWh
+2013-08-01,Electricity Generation by Residual Fuel Oil (RFO),3267.76, GWh
+2013-08-01,Electricity Generation by Wind,35.07, GWh
+2013-08-01,Electricity imported from Iran,38.26, GWh
+2013-08-01,Total Electricity Generation by all Sources,9739.34, GWh
+2013-09-01,Electricity Generation by Coal,6.21, GWh
+2013-09-01,Electricity Generation by Gas,1407.83, GWh
+2013-09-01,Electricity Generation by High Speed Diesel (HSD),115.84, GWh
+2013-09-01,Electricity Generation by Hydel,4141.74, GWh
+2013-09-01,Electricity Generation by Mixed,85.66, GWh
+2013-09-01,Electricity Generation by Nuclear,431.0, GWh
+2013-09-01,Electricity Generation by Residual Fuel Oil (RFO),3128.01, GWh
+2013-09-01,Electricity Generation by Wind,23.76, GWh
+2013-09-01,Electricity imported from Iran,38.81, GWh
+2013-09-01,Total Electricity Generation by all Sources,9378.86, GWh
+2013-10-01,Electricity Generation by Coal,13.78, GWh
+2013-10-01,Electricity Generation by Gas,1282.46, GWh
+2013-10-01,Electricity Generation by High Speed Diesel (HSD),250.42, GWh
+2013-10-01,Electricity Generation by Hydel,2986.07, GWh
+2013-10-01,Electricity Generation by Mixed,84.49, GWh
+2013-10-01,Electricity Generation by Nuclear,437.38, GWh
+2013-10-01,Electricity Generation by Residual Fuel Oil (RFO),3321.39, GWh
+2013-10-01,Electricity Generation by Wind,11.54, GWh
+2013-10-01,Electricity imported from Iran,37.25, GWh
+2013-10-01,Total Electricity Generation by all Sources,8424.78, GWh
+2013-11-01,Electricity Generation by Coal,6.14, GWh
+2013-11-01,Electricity Generation by Gas,1384.59, GWh
+2013-11-01,Electricity Generation by High Speed Diesel (HSD),29.33, GWh
+2013-11-01,Electricity Generation by Hydel,2508.73, GWh
+2013-11-01,Electricity Generation by Mixed,86.18, GWh
+2013-11-01,Electricity Generation by Nuclear,416.15, GWh
+2013-11-01,Electricity Generation by Residual Fuel Oil (RFO),2348.43, GWh
+2013-11-01,Electricity Generation by Wind,12.64, GWh
+2013-11-01,Electricity imported from Iran,28.22, GWh
+2013-11-01,Total Electricity Generation by all Sources,6820.41, GWh
+2013-12-01,Electricity Generation by Gas,1436.52, GWh
+2013-12-01,Electricity Generation by High Speed Diesel (HSD),66.25, GWh
+2013-12-01,Electricity Generation by Hydel,1917.84, GWh
+2013-12-01,Electricity Generation by Mixed,104.27, GWh
+2013-12-01,Electricity Generation by Nuclear,434.45, GWh
+2013-12-01,Electricity Generation by Residual Fuel Oil (RFO),2940.26, GWh
+2013-12-01,Electricity Generation by Wind,15.0, GWh
+2013-12-01,Electricity imported from Iran,28.7, GWh
+2013-12-01,Total Electricity Generation by all Sources,6943.29, GWh
+2014-01-01,Electricity Generation by Coal,6.79, GWh
+2014-01-01,Electricity Generation by Gas,1227.66, GWh
+2014-01-01,Electricity Generation by High Speed Diesel (HSD),196.45, GWh
+2014-01-01,Electricity Generation by Hydel,865.91, GWh
+2014-01-01,Electricity Generation by Mixed,110.1, GWh
+2014-01-01,Electricity Generation by Nuclear,452.45, GWh
+2014-01-01,Electricity Generation by Residual Fuel Oil (RFO),3487.89, GWh
+2014-01-01,Electricity Generation by Wind,20.28, GWh
+2014-01-01,Electricity imported from Iran,31.03, GWh
+2014-01-01,Total Electricity Generation by all Sources,6398.56, GWh
+2014-02-01,Electricity Generation by Coal,10.05, GWh
+2014-02-01,Electricity Generation by Gas,1178.14, GWh
+2014-02-01,Electricity Generation by Hydel,2008.44, GWh
+2014-02-01,Electricity Generation by Mixed,92.4, GWh
+2014-02-01,Electricity Generation by Nuclear,393.97, GWh
+2014-02-01,Electricity Generation by Residual Fuel Oil (RFO),2285.04, GWh
+2014-02-01,Electricity Generation by Wind,13.06, GWh
+2014-02-01,Electricity imported from Iran,28.1, GWh
+2014-02-01,Total Electricity Generation by all Sources,6009.2, GWh
+2014-03-01,Electricity Generation by Coal,11.69, GWh
+2014-03-01,Electricity Generation by Gas,1618.51, GWh
+2014-03-01,Electricity Generation by High Speed Diesel (HSD),106.31, GWh
+2014-03-01,Electricity Generation by Hydel,1604.42, GWh
+2014-03-01,Electricity Generation by Mixed,104.87, GWh
+2014-03-01,Electricity Generation by Nuclear,349.96, GWh
+2014-03-01,Electricity Generation by Residual Fuel Oil (RFO),2689.21, GWh
+2014-03-01,Electricity Generation by Wind,14.85, GWh
+2014-03-01,Electricity imported from Iran,31.42, GWh
+2014-03-01,Total Electricity Generation by all Sources,6531.24, GWh
+2014-04-01,Electricity Generation by Coal,15.71, GWh
+2014-04-01,Electricity Generation by Gas,1587.58, GWh
+2014-04-01,Electricity Generation by High Speed Diesel (HSD),133.32, GWh
+2014-04-01,Electricity Generation by Hydel,1892.69, GWh
+2014-04-01,Electricity Generation by Mixed,84.73, GWh
+2014-04-01,Electricity Generation by Nuclear,350.94, GWh
+2014-04-01,Electricity Generation by Residual Fuel Oil (RFO),2940.79, GWh
+2014-04-01,Electricity Generation by Wind,18.64, GWh
+2014-04-01,Electricity imported from Iran,37.44, GWh
+2014-04-01,Total Electricity Generation by all Sources,7061.84, GWh
+2014-05-01,Electricity Generation by Coal,5.98, GWh
+2014-05-01,Electricity Generation by Gas,1907.11, GWh
+2014-05-01,Electricity Generation by High Speed Diesel (HSD),237.21, GWh
+2014-05-01,Electricity Generation by Hydel,2931.4, GWh
+2014-05-01,Electricity Generation by Mixed,87.87, GWh
+2014-05-01,Electricity Generation by Nuclear,151.55, GWh
+2014-05-01,Electricity Generation by Residual Fuel Oil (RFO),3107.0, GWh
+2014-05-01,Electricity Generation by Wind,31.51, GWh
+2014-05-01,Electricity imported from Iran,34.61, GWh
+2014-05-01,Total Electricity Generation by all Sources,8494.24, GWh
+2014-06-01,Electricity Generation by Coal,11.54, GWh
+2014-06-01,Electricity Generation by Gas,2072.34, GWh
+2014-06-01,Electricity Generation by High Speed Diesel (HSD),296.4, GWh
+2014-06-01,Electricity Generation by Hydel,3446.54, GWh
+2014-06-01,Electricity Generation by Mixed,94.61, GWh
+2014-06-01,Electricity Generation by Nuclear,193.64, GWh
+2014-06-01,Electricity Generation by Residual Fuel Oil (RFO),3250.99, GWh
+2014-06-01,Electricity Generation by Wind,43.02, GWh
+2014-06-01,Electricity imported from Iran,42.49, GWh
+2014-06-01,Total Electricity Generation by all Sources,9451.57, GWh
+2014-07-01,Electricity Generation by Coal,10.11, GWh
+2014-07-01,Electricity Generation by Gas,2135.88, GWh
+2014-07-01,Electricity Generation by High Speed Diesel (HSD),385.5, GWh
+2014-07-01,Electricity Generation by Hydel,3790.63, GWh
+2014-07-01,Electricity Generation by Mixed,106.06, GWh
+2014-07-01,Electricity Generation by Nuclear,386.12, GWh
+2014-07-01,Electricity Generation by Residual Fuel Oil (RFO),3445.24, GWh
+2014-07-01,Electricity Generation by Wind,47.84, GWh
+2014-07-01,Electricity imported from Iran,45.62, GWh
+2014-07-01,Total Electricity Generation by all Sources,10353.0, GWh
+2014-08-01,Electricity Generation by Coal,4.7, GWh
+2014-08-01,Electricity Generation by Gas,1889.98, GWh
+2014-08-01,Electricity Generation by High Speed Diesel (HSD),303.58, GWh
+2014-08-01,Electricity Generation by Hydel,4282.93, GWh
+2014-08-01,Electricity Generation by Mixed,106.48, GWh
+2014-08-01,Electricity Generation by Nuclear,435.93, GWh
+2014-08-01,Electricity Generation by Residual Fuel Oil (RFO),3236.65, GWh
+2014-08-01,Electricity Generation by Wind,37.21, GWh
+2014-08-01,Electricity imported from Iran,43.26, GWh
+2014-08-01,Total Electricity Generation by all Sources,10340.72, GWh
+2014-09-01,Electricity Generation by Coal,7.85, GWh
+2014-09-01,Electricity Generation by Gas,1876.14, GWh
+2014-09-01,Electricity Generation by High Speed Diesel (HSD),320.17, GWh
+2014-09-01,Electricity Generation by Hydel,3532.44, GWh
+2014-09-01,Electricity Generation by Mixed,105.45, GWh
+2014-09-01,Electricity Generation by Nuclear,432.03, GWh
+2014-09-01,Electricity Generation by Residual Fuel Oil (RFO),2779.77, GWh
+2014-09-01,Electricity Generation by Wind,31.59, GWh
+2014-09-01,Electricity imported from Iran,40.21, GWh
+2014-09-01,Total Electricity Generation by all Sources,9125.65, GWh
+2014-10-01,Electricity Generation by Coal,0.12, GWh
+2014-10-01,Electricity Generation by Gas,1523.65, GWh
+2014-10-01,Electricity Generation by High Speed Diesel (HSD),245.48, GWh
+2014-10-01,Electricity Generation by Hydel,3202.84, GWh
+2014-10-01,Electricity Generation by Mixed,118.08, GWh
+2014-10-01,Electricity Generation by Nuclear,403.42, GWh
+2014-10-01,Electricity Generation by Residual Fuel Oil (RFO),2780.61, GWh
+2014-10-01,Electricity Generation by Wind,11.41, GWh
+2014-10-01,Electricity imported from Iran,40.75, GWh
+2014-10-01,Total Electricity Generation by all Sources,8326.36, GWh
+2014-11-01,Electricity Generation by Coal,15.34, GWh
+2014-11-01,Electricity Generation by Gas,1766.01, GWh
+2014-11-01,Electricity Generation by High Speed Diesel (HSD),5.07, GWh
+2014-11-01,Electricity Generation by Hydel,2891.91, GWh
+2014-11-01,Electricity Generation by Mixed,101.61, GWh
+2014-11-01,Electricity Generation by Nuclear,433.65, GWh
+2014-11-01,Electricity Generation by Residual Fuel Oil (RFO),1394.06, GWh
+2014-11-01,Electricity Generation by Wind,13.85, GWh
+2014-11-01,Electricity imported from Iran,34.44, GWh
+2014-11-01,Total Electricity Generation by all Sources,6655.94, GWh
+2014-12-01,Electricity Generation by Coal,14.47, GWh
+2014-12-01,Electricity Generation by Gas,1575.33, GWh
+2014-12-01,Electricity Generation by High Speed Diesel (HSD),52.7, GWh
+2014-12-01,Electricity Generation by Hydel,1907.41, GWh
+2014-12-01,Electricity Generation by Mixed,130.05, GWh
+2014-12-01,Electricity Generation by Nuclear,384.92, GWh
+2014-12-01,Electricity Generation by Residual Fuel Oil (RFO),2658.56, GWh
+2014-12-01,Electricity Generation by Wind,29.97, GWh
+2014-12-01,Electricity imported from Iran,31.31, GWh
+2014-12-01,Total Electricity Generation by all Sources,6784.72, GWh
+2015-01-01,Electricity Generation by Coal,1.56, GWh
+2015-01-01,Electricity Generation by Gas,1442.89, GWh
+2015-01-01,Electricity Generation by High Speed Diesel (HSD),582.87, GWh
+2015-01-01,Electricity Generation by Hydel,809.87, GWh
+2015-01-01,Electricity Generation by Mixed,130.05, GWh
+2015-01-01,Electricity Generation by Nuclear,349.58, GWh
+2015-01-01,Electricity Generation by Residual Fuel Oil (RFO),2806.66, GWh
+2015-01-01,Electricity Generation by Wind,32.97, GWh
+2015-01-01,Electricity imported from Iran,29.97, GWh
+2015-01-01,Total Electricity Generation by all Sources,6186.42, GWh
+2015-02-01,Electricity Generation by Coal,18.35, GWh
+2015-02-01,Electricity Generation by Gas,1252.6, GWh
+2015-02-01,Electricity Generation by High Speed Diesel (HSD),105.64, GWh
+2015-02-01,Electricity Generation by Hydel,1957.18, GWh
+2015-02-01,Electricity Generation by Mixed,117.52, GWh
+2015-02-01,Electricity Generation by Nuclear,409.49, GWh
+2015-02-01,Electricity Generation by Residual Fuel Oil (RFO),1933.36, GWh
+2015-02-01,Electricity Generation by Wind,36.81, GWh
+2015-02-01,Electricity imported from Iran,28.12, GWh
+2015-02-01,Total Electricity Generation by all Sources,5859.07, GWh
+2015-03-01,Electricity Generation by Coal,7.58, GWh
+2015-03-01,Electricity Generation by Gas,1669.67, GWh
+2015-03-01,Electricity Generation by High Speed Diesel (HSD),302.84, GWh
+2015-03-01,Electricity Generation by Hydel,1364.16, GWh
+2015-03-01,Electricity Generation by Mixed,138.07, GWh
+2015-03-01,Electricity Generation by Nuclear,451.96, GWh
+2015-03-01,Electricity Generation by Residual Fuel Oil (RFO),2540.72, GWh
+2015-03-01,Electricity Generation by Wind,33.29, GWh
+2015-03-01,Electricity imported from Iran,32.81, GWh
+2015-03-01,Total Electricity Generation by all Sources,6541.1, GWh
+2015-04-01,Electricity Generation by Coal,13.12, GWh
+2015-04-01,Electricity Generation by Gas,1964.31, GWh
+2015-04-01,Electricity Generation by High Speed Diesel (HSD),371.2, GWh
+2015-04-01,Electricity Generation by Hydel,1472.75, GWh
+2015-04-01,Electricity Generation by Mixed,116.96, GWh
+2015-04-01,Electricity Generation by Nuclear,431.98, GWh
+2015-04-01,Electricity Generation by Residual Fuel Oil (RFO),2880.22, GWh
+2015-04-01,Electricity Generation by Wind,52.54, GWh
+2015-04-01,Electricity imported from Iran,38.44, GWh
+2015-04-01,Total Electricity Generation by all Sources,7341.52, GWh
+2015-05-01,Electricity Generation by Gas,2659.948, GWh
+2015-05-01,Electricity Generation by High Speed Diesel (HSD),114.238, GWh
+2015-05-01,Electricity Generation by Hydel,3377.71, GWh
+2015-05-01,Electricity Generation by Mixed,96.38, GWh
+2015-05-01,Electricity Generation by Nuclear,445.332, GWh
+2015-05-01,Electricity Generation by Residual Fuel Oil (RFO),2740.55, GWh
+2015-05-01,Electricity Generation by Wind,77.494, GWh
+2015-05-01,Electricity Generation by bagasse,23.967, GWh
+2015-05-01,Electricity imported from Iran,42.738, GWh
+2015-05-01,Total Electricity Generation by all Sources,9578.357, GWh
+2015-06-01,Electricity Generation by Gas,2722.0, GWh
+2015-06-01,Electricity Generation by High Speed Diesel (HSD),126.95, GWh
+2015-06-01,Electricity Generation by Hydel,3972.81, GWh
+2015-06-01,Electricity Generation by Mixed,38.86, GWh
+2015-06-01,Electricity Generation by Nuclear,430.99, GWh
+2015-06-01,Electricity Generation by Residual Fuel Oil (RFO),2484.22, GWh
+2015-06-01,Electricity Generation by Wind,52.89, GWh
+2015-06-01,Electricity imported from Iran,89.1, GWh
+2015-06-01,Total Electricity Generation by all Sources,9917.82, GWh
+2015-07-01,Electricity Generation by Coal,5.85, GWh
+2015-07-01,Electricity Generation by Gas,2930.53, GWh
+2015-07-01,Electricity Generation by High Speed Diesel (HSD),125.15, GWh
+2015-07-01,Electricity Generation by Hydel,4528.8, GWh
+2015-07-01,Electricity Generation by Mixed,36.96, GWh
+2015-07-01,Electricity Generation by Nuclear,428.76, GWh
+2015-07-01,Electricity Generation by Residual Fuel Oil (RFO),2390.11, GWh
+2015-07-01,Electricity Generation by Solar,12.67, GWh
+2015-07-01,Electricity Generation by Wind,89.4, GWh
+2015-07-01,Electricity Generation by bagasse,35.73, GWh
+2015-07-01,Electricity imported from Iran,43.24, GWh
+2015-07-01,Total Electricity Generation by all Sources,10627.2, GWh
+2015-08-01,Electricity Generation by Coal,3.0, GWh
+2015-08-01,Electricity Generation by Gas,2684.69, GWh
+2015-08-01,Electricity Generation by High Speed Diesel (HSD),279.21, GWh
+2015-08-01,Electricity Generation by Hydel,4382.39, GWh
+2015-08-01,Electricity Generation by Mixed,33.67, GWh
+2015-08-01,Electricity Generation by Nuclear,181.68, GWh
+2015-08-01,Electricity Generation by Residual Fuel Oil (RFO),2767.43, GWh
+2015-08-01,Electricity Generation by Solar,14.74, GWh
+2015-08-01,Electricity Generation by Wind,94.29, GWh
+2015-08-01,Electricity Generation by bagasse,33.94, GWh
+2015-08-01,Electricity imported from Iran,44.22, GWh
+2015-08-01,Total Electricity Generation by all Sources,10519.26, GWh
+2015-09-01,Electricity Generation by Coal,10.2, GWh
+2015-09-01,Electricity Generation by Gas,2737.42, GWh
+2015-09-01,Electricity Generation by High Speed Diesel (HSD),106.89, GWh
+2015-09-01,Electricity Generation by Hydel,4138.62, GWh
+2015-09-01,Electricity Generation by Mixed,15.07, GWh
+2015-09-01,Electricity Generation by Nuclear,186.79, GWh
+2015-09-01,Electricity Generation by Residual Fuel Oil (RFO),2297.87, GWh
+2015-09-01,Electricity Generation by Solar,15.01, GWh
+2015-09-01,Electricity Generation by Wind,52.47, GWh
+2015-09-01,Electricity Generation by bagasse,19.53, GWh
+2015-09-01,Electricity imported from Iran,39.6, GWh
+2015-09-01,Total Electricity Generation by all Sources,9619.47, GWh
+2015-10-01,Electricity Generation by Coal,4.61, GWh
+2015-10-01,Electricity Generation by Gas,2721.89, GWh
+2015-10-01,Electricity Generation by High Speed Diesel (HSD),172.74, GWh
+2015-10-01,Electricity Generation by Hydel,2495.76, GWh
+2015-10-01,Electricity Generation by Mixed,10.83, GWh
+2015-10-01,Electricity Generation by Nuclear,226.64, GWh
+2015-10-01,Electricity Generation by Residual Fuel Oil (RFO),2572.81, GWh
+2015-10-01,Electricity Generation by Solar,14.05, GWh
+2015-10-01,Electricity Generation by Wind,37.24, GWh
+2015-10-01,Electricity Generation by bagasse,0.07, GWh
+2015-10-01,Electricity imported from Iran,40.46, GWh
+2015-10-01,Total Electricity Generation by all Sources,8297.1, GWh
+2015-11-01,Electricity Generation by Coal,6.58, GWh
+2015-11-01,Electricity Generation by Gas,2188.0, GWh
+2015-11-01,Electricity Generation by High Speed Diesel (HSD),28.4, GWh
+2015-11-01,Electricity Generation by Hydel,2302.36, GWh
+2015-11-01,Electricity Generation by Mixed,12.26, GWh
+2015-11-01,Electricity Generation by Nuclear,219.16, GWh
+2015-11-01,Electricity Generation by Residual Fuel Oil (RFO),1856.25, GWh
+2015-11-01,Electricity Generation by Solar,10.45, GWh
+2015-11-01,Electricity Generation by Wind,45.74, GWh
+2015-11-01,Electricity Generation by bagasse,18.49, GWh
+2015-11-01,Electricity imported from Iran,34.45, GWh
+2015-11-01,Total Electricity Generation by all Sources,6722.14, GWh
+2015-12-01,Electricity Generation by Coal,10.0, GWh
+2015-12-01,Electricity Generation by Gas,2087.55, GWh
+2015-12-01,Electricity Generation by High Speed Diesel (HSD),99.42, GWh
+2015-12-01,Electricity Generation by Hydel,1802.71, GWh
+2015-12-01,Electricity Generation by Mixed,31.96, GWh
+2015-12-01,Electricity Generation by Nuclear,226.37, GWh
+2015-12-01,Electricity Generation by Residual Fuel Oil (RFO),2484.42, GWh
+2015-12-01,Electricity Generation by Solar,10.87, GWh
+2015-12-01,Electricity Generation by Wind,36.09, GWh
+2015-12-01,Electricity Generation by bagasse,55.72, GWh
+2015-12-01,Electricity imported from Iran,34.66, GWh
+2015-12-01,Total Electricity Generation by all Sources,6879.77, GWh
+2016-01-01,Electricity Generation by Coal,12.49, GWh
+2016-01-01,Electricity Generation by Gas,1717.82, GWh
+2016-01-01,Electricity Generation by High Speed Diesel (HSD),367.3, GWh
+2016-01-01,Electricity Generation by Hydel,842.95, GWh
+2016-01-01,Electricity Generation by Mixed,32.43, GWh
+2016-01-01,Electricity Generation by Nuclear,280.64, GWh
+2016-01-01,Electricity Generation by Residual Fuel Oil (RFO),3387.48, GWh
+2016-01-01,Electricity Generation by Solar,9.0, GWh
+2016-01-01,Electricity Generation by Wind,27.88, GWh
+2016-01-01,Electricity Generation by bagasse,59.22, GWh
+2016-01-01,Electricity imported from Iran,33.33, GWh
+2016-01-01,Total Electricity Generation by all Sources,6770.54, GWh
+2016-02-01,Electricity Generation by Coal,5.13, GWh
+2016-02-01,Electricity Generation by Gas,1460.28, GWh
+2016-02-01,Electricity Generation by High Speed Diesel (HSD),3.44, GWh
+2016-02-01,Electricity Generation by Hydel,2213.26, GWh
+2016-02-01,Electricity Generation by Mixed,30.29, GWh
+2016-02-01,Electricity Generation by Nuclear,404.35, GWh
+2016-02-01,Electricity Generation by Residual Fuel Oil (RFO),2133.0, GWh
+2016-02-01,Electricity Generation by Solar,13.83, GWh
+2016-02-01,Electricity Generation by Wind,39.29, GWh
+2016-02-01,Electricity Generation by bagasse,61.87, GWh
+2016-02-01,Electricity imported from Iran,32.68, GWh
+2016-02-01,Total Electricity Generation by all Sources,6397.42, GWh
+2016-03-01,Electricity Generation by Coal,12.36, GWh
+2016-03-01,Electricity Generation by Gas,2231.05, GWh
+2016-03-01,Electricity Generation by High Speed Diesel (HSD),11.89, GWh
+2016-03-01,Electricity Generation by Hydel,1855.42, GWh
+2016-03-01,Electricity Generation by Mixed,19.88, GWh
+2016-03-01,Electricity Generation by Nuclear,439.2, GWh
+2016-03-01,Electricity Generation by Residual Fuel Oil (RFO),1992.02, GWh
+2016-03-01,Electricity Generation by Solar,14.73, GWh
+2016-03-01,Electricity Generation by Wind,51.4, GWh
+2016-03-01,Electricity Generation by bagasse,74.23, GWh
+2016-03-01,Electricity imported from Iran,32.82, GWh
+2016-03-01,Total Electricity Generation by all Sources,6735.0, GWh
+2016-04-01,Electricity Generation by Coal,11.52, GWh
+2016-04-01,Electricity Generation by Gas,2524.12, GWh
+2016-04-01,Electricity Generation by High Speed Diesel (HSD),12.96, GWh
+2016-04-01,Electricity Generation by Hydel,2385.69, GWh
+2016-04-01,Electricity Generation by Mixed,9.13, GWh
+2016-04-01,Electricity Generation by Nuclear,421.39, GWh
+2016-04-01,Electricity Generation by Residual Fuel Oil (RFO),2251.3, GWh
+2016-04-01,Electricity Generation by Solar,15.16, GWh
+2016-04-01,Electricity Generation by Wind,73.9, GWh
+2016-04-01,Electricity Generation by bagasse,69.58, GWh
+2016-04-01,Electricity imported from Iran,39.24, GWh
+2016-04-01,Total Electricity Generation by all Sources,7813.99, GWh
+2016-05-01,Electricity Generation by Coal,10.73, GWh
+2016-05-01,Electricity Generation by Gas,2963.73, GWh
+2016-05-01,Electricity Generation by High Speed Diesel (HSD),22.56, GWh
+2016-05-01,Electricity Generation by Hydel,3584.26, GWh
+2016-05-01,Electricity Generation by Mixed,9.11, GWh
+2016-05-01,Electricity Generation by Nuclear,416.99, GWh
+2016-05-01,Electricity Generation by Residual Fuel Oil (RFO),2732.92, GWh
+2016-05-01,Electricity Generation by Solar,29.85, GWh
+2016-05-01,Electricity Generation by Wind,126.88, GWh
+2016-05-01,Electricity Generation by bagasse,61.52, GWh
+2016-05-01,Electricity imported from Iran,44.74, GWh
+2016-05-01,Total Electricity Generation by all Sources,10003.29, GWh
+2016-06-01,Electricity Generation by Coal,12.35, GWh
+2016-06-01,Electricity Generation by Gas,1923.67, GWh
+2016-06-01,Electricity Generation by High Speed Diesel (HSD),197.97, GWh
+2016-06-01,Electricity Generation by Hydel,3739.78, GWh
+2016-06-01,Electricity Generation by Mixed,9.78, GWh
+2016-06-01,Electricity Generation by Nuclear,422.01, GWh
+2016-06-01,Electricity Generation by Residual Fuel Oil (RFO),3420.79, GWh
+2016-06-01,Electricity Generation by Solar,46.41, GWh
+2016-06-01,Electricity Generation by Wind,11.12, GWh
+2016-06-01,Electricity Generation by bagasse,66.15, GWh
+2016-06-01,Electricity imported from Iran,43.6, GWh
+2016-06-01,Total Electricity Generation by all Sources,9893.63, GWh
+2016-07-01,Electricity Generation by Coal,8.399, GWh
+2016-07-01,Electricity Generation by Gas,2054.58, GWh
+2016-07-01,Electricity Generation by High Speed Diesel (HSD),86.53, GWh
+2016-07-01,Electricity Generation by Hydel,3948.02, GWh
+2016-07-01,Electricity Generation by Mixed,8.11, GWh
+2016-07-01,Electricity Generation by Nuclear,434.59, GWh
+2016-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1000.51, GWh
+2016-07-01,Electricity Generation by Residual Fuel Oil (RFO),3168.7, GWh
+2016-07-01,Electricity Generation by Solar,57.51, GWh
+2016-07-01,Electricity Generation by Wind,129.65, GWh
+2016-07-01,Electricity Generation by bagasse,63.54, GWh
+2016-07-01,Electricity imported from Iran,45.51, GWh
+2016-07-01,Total Electricity Generation by all Sources,11005.649, GWh
+2016-08-01,Electricity Generation by Coal,10.44, GWh
+2016-08-01,Electricity Generation by Gas,2343.99, GWh
+2016-08-01,Electricity Generation by High Speed Diesel (HSD),142.16, GWh
+2016-08-01,Electricity Generation by Hydel,4249.59, GWh
+2016-08-01,Electricity Generation by Mixed,7.84, GWh
+2016-08-01,Electricity Generation by Nuclear,432.19, GWh
+2016-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),291.27, GWh
+2016-08-01,Electricity Generation by Residual Fuel Oil (RFO),3054.42, GWh
+2016-08-01,Electricity Generation by Solar,52.0, GWh
+2016-08-01,Electricity Generation by Wind,82.63, GWh
+2016-08-01,Electricity Generation by bagasse,68.95, GWh
+2016-08-01,Electricity imported from Iran,44.72, GWh
+2016-08-01,Total Electricity Generation by all Sources,10780.2, GWh
+2016-09-01,Electricity Generation by Coal,8.13, GWh
+2016-09-01,Electricity Generation by Gas,2233.36, GWh
+2016-09-01,Electricity Generation by High Speed Diesel (HSD),101.66, GWh
+2016-09-01,Electricity Generation by Hydel,4209.5, GWh
+2016-09-01,Electricity Generation by Mixed,7.03, GWh
+2016-09-01,Electricity Generation by Nuclear,422.31, GWh
+2016-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),297.53, GWh
+2016-09-01,Electricity Generation by Residual Fuel Oil (RFO),2651.33, GWh
+2016-09-01,Electricity Generation by Solar,61.87, GWh
+2016-09-01,Electricity Generation by Wind,143.08, GWh
+2016-09-01,Electricity Generation by bagasse,42.21, GWh
+2016-09-01,Electricity imported from Iran,42.09, GWh
+2016-09-01,Total Electricity Generation by all Sources,10220.1, GWh
+2016-10-01,Electricity Generation by Coal,10.17, GWh
+2016-10-01,Electricity Generation by Gas,2118.17, GWh
+2016-10-01,Electricity Generation by High Speed Diesel (HSD),172.84, GWh
+2016-10-01,Electricity Generation by Hydel,2762.04, GWh
+2016-10-01,Electricity Generation by Mixed,5.98, GWh
+2016-10-01,Electricity Generation by Nuclear,437.42, GWh
+2016-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),353.6, GWh
+2016-10-01,Electricity Generation by Residual Fuel Oil (RFO),2630.35, GWh
+2016-10-01,Electricity Generation by Solar,56.41, GWh
+2016-10-01,Electricity Generation by Wind,71.59, GWh
+2016-10-01,Electricity Generation by bagasse,18.66, GWh
+2016-10-01,Electricity imported from Iran,41.34, GWh
+2016-10-01,Total Electricity Generation by all Sources,8678.57, GWh
+2016-11-01,Electricity Generation by Coal,0.0, GWh
+2016-11-01,Electricity Generation by Gas,1925.57, GWh
+2016-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2016-11-01,Electricity Generation by Hydel,2842.53, GWh
+2016-11-01,Electricity Generation by Mixed,14.57, GWh
+2016-11-01,Electricity Generation by Nuclear,338.4, GWh
+2016-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),286.15, GWh
+2016-11-01,Electricity Generation by Residual Fuel Oil (RFO),1345.02, GWh
+2016-11-01,Electricity Generation by Solar,45.34, GWh
+2016-11-01,Electricity Generation by Wind,46.67, GWh
+2016-11-01,Electricity Generation by bagasse,55.99, GWh
+2016-11-01,Electricity imported from Iran,35.02, GWh
+2016-11-01,Total Electricity Generation by all Sources,6935.26, GWh
+2016-12-01,Electricity Generation by Coal,2.5, GWh
+2016-12-01,Electricity Generation by Gas,1855.34, GWh
+2016-12-01,Electricity Generation by High Speed Diesel (HSD),60.62, GWh
+2016-12-01,Electricity Generation by Hydel,1642.65, GWh
+2016-12-01,Electricity Generation by Mixed,27.79, GWh
+2016-12-01,Electricity Generation by Nuclear,441.69, GWh
+2016-12-01,Electricity Generation by Residual Fuel Oil (RFO),2673.3, GWh
+2016-12-01,Electricity Generation by Solar,43.16, GWh
+2016-12-01,Electricity Generation by Wind,54.13, GWh
+2016-12-01,Electricity Generation by bagasse,69.78, GWh
+2016-12-01,Electricity imported from Iran,32.05, GWh
+2016-12-01,Total Electricity Generation by all Sources,6903.01, GWh
+2017-01-01,Electricity Generation by Coal,9.62, GWh
+2017-01-01,Electricity Generation by Gas,1822.2, GWh
+2017-01-01,Electricity Generation by High Speed Diesel (HSD),362.08, GWh
+2017-01-01,Electricity Generation by Hydel,811.78, GWh
+2017-01-01,Electricity Generation by Mixed,32.45, GWh
+2017-01-01,Electricity Generation by Nuclear,580.55, GWh
+2017-01-01,Electricity Generation by Residual Fuel Oil (RFO),3295.96, GWh
+2017-01-01,Electricity Generation by Solar,38.89, GWh
+2017-01-01,Electricity Generation by Wind,106.81, GWh
+2017-01-01,Electricity Generation by bagasse,73.28, GWh
+2017-01-01,Electricity imported from Iran,34.58, GWh
+2017-01-01,Total Electricity Generation by all Sources,7168.2, GWh
+2017-02-01,Electricity Generation by Coal,4.6, GWh
+2017-02-01,Electricity Generation by Gas,1796.6, GWh
+2017-02-01,Electricity Generation by High Speed Diesel (HSD),5.9, GWh
+2017-02-01,Electricity Generation by Hydel,1493.5, GWh
+2017-02-01,Electricity Generation by Mixed,36.1, GWh
+2017-02-01,Electricity Generation by Nuclear,581.0, GWh
+2017-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),537.8, GWh
+2017-02-01,Electricity Generation by Residual Fuel Oil (RFO),1677.5, GWh
+2017-02-01,Electricity Generation by Solar,54.2, GWh
+2017-02-01,Electricity Generation by Wind,51.0, GWh
+2017-02-01,Electricity Generation by bagasse,80.5, GWh
+2017-02-01,Electricity imported from Iran,33.8, GWh
+2017-02-01,Total Electricity Generation by all Sources,6352.5, GWh
+2017-03-01,Electricity Generation by Coal,8.7, GWh
+2017-03-01,Electricity Generation by Gas,2218.74, GWh
+2017-03-01,Electricity Generation by High Speed Diesel (HSD),38.15, GWh
+2017-03-01,Electricity Generation by Hydel,1284.24, GWh
+2017-03-01,Electricity Generation by Mixed,50.21, GWh
+2017-03-01,Electricity Generation by Nuclear,616.62, GWh
+2017-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),611.23, GWh
+2017-03-01,Electricity Generation by Residual Fuel Oil (RFO),2495.77, GWh
+2017-03-01,Electricity Generation by Solar,62.87, GWh
+2017-03-01,Electricity Generation by Wind,86.64, GWh
+2017-03-01,Electricity Generation by bagasse,107.94, GWh
+2017-03-01,Electricity imported from Iran,38.72, GWh
+2017-03-01,Total Electricity Generation by all Sources,7619.83, GWh
+2017-04-01,Electricity Generation by Coal,13.1, GWh
+2017-04-01,Electricity Generation by Gas,1938.45, GWh
+2017-04-01,Electricity Generation by High Speed Diesel (HSD),137.65, GWh
+2017-04-01,Electricity Generation by Hydel,2025.71, GWh
+2017-04-01,Electricity Generation by Mixed,29.54, GWh
+2017-04-01,Electricity Generation by Nuclear,440.8, GWh
+2017-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),785.68, GWh
+2017-04-01,Electricity Generation by Residual Fuel Oil (RFO),3081.24, GWh
+2017-04-01,Electricity Generation by Solar,62.76, GWh
+2017-04-01,Electricity Generation by Wind,149.27, GWh
+2017-04-01,Electricity Generation by bagasse,132.87, GWh
+2017-04-01,Electricity imported from Iran,44.91, GWh
+2017-04-01,Total Electricity Generation by all Sources,8841.98, GWh
+2017-05-01,Electricity Generation by Coal,237.06, GWh
+2017-05-01,Electricity Generation by Gas,1944.85, GWh
+2017-05-01,Electricity Generation by High Speed Diesel (HSD),405.56, GWh
+2017-05-01,Electricity Generation by Hydel,3325.01, GWh
+2017-05-01,Electricity Generation by Mixed,25.08, GWh
+2017-05-01,Electricity Generation by Nuclear,485.44, GWh
+2017-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),857.31, GWh
+2017-05-01,Electricity Generation by Residual Fuel Oil (RFO),3305.8, GWh
+2017-05-01,Electricity Generation by Solar,62.85, GWh
+2017-05-01,Electricity Generation by Wind,210.07, GWh
+2017-05-01,Electricity Generation by bagasse,113.55, GWh
+2017-05-01,Electricity imported from Iran,49.48, GWh
+2017-05-01,Total Electricity Generation by all Sources,11022.06, GWh
+2017-06-01,Electricity Generation by Coal,652.44, GWh
+2017-06-01,Electricity Generation by Gas,2111.76, GWh
+2017-06-01,Electricity Generation by High Speed Diesel (HSD),155.37, GWh
+2017-06-01,Electricity Generation by Hydel,3490.23, GWh
+2017-06-01,Electricity Generation by Mixed,26.67, GWh
+2017-06-01,Electricity Generation by Nuclear,657.14, GWh
+2017-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1406.78, GWh
+2017-06-01,Electricity Generation by Residual Fuel Oil (RFO),2559.93, GWh
+2017-06-01,Electricity Generation by Solar,54.29, GWh
+2017-06-01,Electricity Generation by Wind,195.65, GWh
+2017-06-01,Electricity Generation by bagasse,94.09, GWh
+2017-06-01,Electricity imported from Iran,53.88, GWh
+2017-06-01,Total Electricity Generation by all Sources,11458.23, GWh
+2017-07-01,Electricity Generation by Coal,368.05, GWh
+2017-07-01,Electricity Generation by Gas,2145.17, GWh
+2017-07-01,Electricity Generation by High Speed Diesel (HSD),335.59, GWh
+2017-07-01,Electricity Generation by Hydel,3847.55, GWh
+2017-07-01,Electricity Generation by Mixed,26.69, GWh
+2017-07-01,Electricity Generation by Nuclear,641.59, GWh
+2017-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1514.5, GWh
+2017-07-01,Electricity Generation by Residual Fuel Oil (RFO),3198.5, GWh
+2017-07-01,Electricity Generation by Solar,56.63, GWh
+2017-07-01,Electricity Generation by Wind,232.78, GWh
+2017-07-01,Electricity Generation by bagasse,75.31, GWh
+2017-07-01,Electricity imported from Iran,54.28, GWh
+2017-07-01,Total Electricity Generation by all Sources,12496.64, GWh
+2017-08-01,Electricity Generation by Coal,405.07, GWh
+2017-08-01,Electricity Generation by Gas,2146.31, GWh
+2017-08-01,Electricity Generation by High Speed Diesel (HSD),335.99, GWh
+2017-08-01,Electricity Generation by Hydel,4196.51, GWh
+2017-08-01,Electricity Generation by Mixed,31.02, GWh
+2017-08-01,Electricity Generation by Nuclear,736.333, GWh
+2017-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1369.2, GWh
+2017-08-01,Electricity Generation by Residual Fuel Oil (RFO),3122.95, GWh
+2017-08-01,Electricity Generation by Solar,59.76, GWh
+2017-08-01,Electricity Generation by Wind,204.4, GWh
+2017-08-01,Electricity Generation by bagasse,94.09, GWh
+2017-08-01,Electricity imported from Iran,52.65, GWh
+2017-08-01,Total Electricity Generation by all Sources,12754.283, GWh
+2017-09-01,Electricity Generation by Coal,551.18, GWh
+2017-09-01,Electricity Generation by Gas,1882.79, GWh
+2017-09-01,Electricity Generation by High Speed Diesel (HSD),60.25, GWh
+2017-09-01,Electricity Generation by Hydel,4142.64, GWh
+2017-09-01,Electricity Generation by Mixed,56.68, GWh
+2017-09-01,Electricity Generation by Nuclear,777.55, GWh
+2017-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1326.37, GWh
+2017-09-01,Electricity Generation by Residual Fuel Oil (RFO),2328.48, GWh
+2017-09-01,Electricity Generation by Solar,61.94, GWh
+2017-09-01,Electricity Generation by Wind,141.65, GWh
+2017-09-01,Electricity Generation by bagasse,110.28, GWh
+2017-09-01,Electricity imported from Iran,49.21, GWh
+2017-09-01,Total Electricity Generation by all Sources,11489.02, GWh
+2017-10-01,Electricity Generation by Coal,687.36, GWh
+2017-10-01,Electricity Generation by Gas,1683.17, GWh
+2017-10-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2017-10-01,Electricity Generation by Hydel,2438.39, GWh
+2017-10-01,Electricity Generation by Mixed,56.79, GWh
+2017-10-01,Electricity Generation by Nuclear,837.6, GWh
+2017-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1492.74, GWh
+2017-10-01,Electricity Generation by Residual Fuel Oil (RFO),2547.48, GWh
+2017-10-01,Electricity Generation by Solar,82.82, GWh
+2017-10-01,Electricity Generation by Wind,76.76, GWh
+2017-10-01,Electricity Generation by bagasse,65.56, GWh
+2017-10-01,Electricity imported from Iran,48.62, GWh
+2017-10-01,Total Electricity Generation by all Sources,10017.29, GWh
+2017-11-01,Electricity Generation by Coal,961.75, GWh
+2017-11-01,Electricity Generation by Gas,1778.11, GWh
+2017-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2017-11-01,Electricity Generation by Hydel,2212.47, GWh
+2017-11-01,Electricity Generation by Mixed,56.13, GWh
+2017-11-01,Electricity Generation by Nuclear,634.21, GWh
+2017-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),869.66, GWh
+2017-11-01,Electricity Generation by Residual Fuel Oil (RFO),648.5, GWh
+2017-11-01,Electricity Generation by Solar,42.2, GWh
+2017-11-01,Electricity Generation by Wind,71.1, GWh
+2017-11-01,Electricity Generation by bagasse,55.46, GWh
+2017-11-01,Electricity imported from Iran,40.63, GWh
+2017-11-01,Total Electricity Generation by all Sources,7370.22, GWh
+2017-12-01,Electricity Generation by Coal,909.58, GWh
+2017-12-01,Electricity Generation by Gas,1787.66, GWh
+2017-12-01,Electricity Generation by High Speed Diesel (HSD),51.48, GWh
+2017-12-01,Electricity Generation by Hydel,1231.53, GWh
+2017-12-01,Electricity Generation by Mixed,55.35, GWh
+2017-12-01,Electricity Generation by Nuclear,728.59, GWh
+2017-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),365.86, GWh
+2017-12-01,Electricity Generation by Residual Fuel Oil (RFO),2281.45, GWh
+2017-12-01,Electricity Generation by Solar,48.78, GWh
+2017-12-01,Electricity Generation by Wind,106.75, GWh
+2017-12-01,Electricity Generation by bagasse,86.39, GWh
+2017-12-01,Electricity imported from Iran,36.82, GWh
+2017-12-01,Total Electricity Generation by all Sources,7690.24, GWh
+2018-01-01,Electricity Generation by Coal,1144.66, GWh
+2018-01-01,Electricity Generation by Gas,1851.64, GWh
+2018-01-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2018-01-01,Electricity Generation by Hydel,606.34, GWh
+2018-01-01,Electricity Generation by Mixed,72.4, GWh
+2018-01-01,Electricity Generation by Nuclear,820.95, GWh
+2018-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1602.88, GWh
+2018-01-01,Electricity Generation by Residual Fuel Oil (RFO),1630.46, GWh
+2018-01-01,Electricity Generation by Solar,54.8, GWh
+2018-01-01,Electricity Generation by Wind,73.1, GWh
+2018-01-01,Electricity Generation by bagasse,86.9, GWh
+2018-01-01,Electricity imported from Iran,37.93, GWh
+2018-01-01,Total Electricity Generation by all Sources,7982.06, GWh
+2018-02-01,Electricity Generation by Coal,1162.0, GWh
+2018-02-01,Electricity Generation by Gas,1572.9, GWh
+2018-02-01,Electricity Generation by High Speed Diesel (HSD),0.77, GWh
+2018-02-01,Electricity Generation by Hydel,1356.6, GWh
+2018-02-01,Electricity Generation by Mixed,61.1, GWh
+2018-02-01,Electricity Generation by Nuclear,608.2, GWh
+2018-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1340.9, GWh
+2018-02-01,Electricity Generation by Residual Fuel Oil (RFO),581.4, GWh
+2018-02-01,Electricity Generation by Solar,54.6, GWh
+2018-02-01,Electricity Generation by Wind,94.9, GWh
+2018-02-01,Electricity Generation by bagasse,80.9, GWh
+2018-02-01,Electricity imported from Iran,34.6, GWh
+2018-02-01,Total Electricity Generation by all Sources,6948.87, GWh
+2018-03-01,Electricity Generation by Coal,1263.58, GWh
+2018-03-01,Electricity Generation by Gas,1860.06, GWh
+2018-03-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2018-03-01,Electricity Generation by Hydel,872.44, GWh
+2018-03-01,Electricity Generation by Mixed,68.81, GWh
+2018-03-01,Electricity Generation by Nuclear,786.18, GWh
+2018-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2126.1, GWh
+2018-03-01,Electricity Generation by Residual Fuel Oil (RFO),1410.35, GWh
+2018-03-01,Electricity Generation by Solar,70.88, GWh
+2018-03-01,Electricity Generation by Wind,149.25, GWh
+2018-03-01,Electricity Generation by bagasse,91.09, GWh
+2018-03-01,Electricity imported from Iran,42.17, GWh
+2018-03-01,Total Electricity Generation by all Sources,8740.91, GWh
+2018-04-01,Electricity Generation by Coal,1401.0, GWh
+2018-04-01,Electricity Generation by Gas,1549.0, GWh
+2018-04-01,Electricity Generation by High Speed Diesel (HSD),0.11, GWh
+2018-04-01,Electricity Generation by Hydel,1527.0, GWh
+2018-04-01,Electricity Generation by Mixed,56.37, GWh
+2018-04-01,Electricity Generation by Nuclear,835.0, GWh
+2018-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3695.0, GWh
+2018-04-01,Electricity Generation by Residual Fuel Oil (RFO),1550.0, GWh
+2018-04-01,Electricity Generation by Solar,79.83, GWh
+2018-04-01,Electricity Generation by Wind,205.35, GWh
+2018-04-01,Electricity Generation by bagasse,54.53, GWh
+2018-04-01,Electricity imported from Iran,46.4, GWh
+2018-04-01,Total Electricity Generation by all Sources,10999.59, GWh
+2018-05-01,Electricity Generation by Coal,1488.95, GWh
+2018-05-01,Electricity Generation by Gas,1931.34, GWh
+2018-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2018-05-01,Electricity Generation by Hydel,2217.0, GWh
+2018-05-01,Electricity Generation by Mixed,57.08, GWh
+2018-05-01,Electricity Generation by Nuclear,656.16, GWh
+2018-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2890.12, GWh
+2018-05-01,Electricity Generation by Residual Fuel Oil (RFO),2338.23, GWh
+2018-05-01,Electricity Generation by Solar,63.62, GWh
+2018-05-01,Electricity Generation by Wind,289.4, GWh
+2018-05-01,Electricity Generation by bagasse,113.45, GWh
+2018-05-01,Electricity imported from Iran,53.63, GWh
+2018-05-01,Total Electricity Generation by all Sources,12098.98, GWh
+2018-06-01,Electricity Generation by Coal,1522.47, GWh
+2018-06-01,Electricity Generation by Gas,2026.03, GWh
+2018-06-01,Electricity Generation by High Speed Diesel (HSD),3.9, GWh
+2018-06-01,Electricity Generation by Hydel,3589.02, GWh
+2018-06-01,Electricity Generation by Mixed,55.06, GWh
+2018-06-01,Electricity Generation by Nuclear,656.03, GWh
+2018-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3252.28, GWh
+2018-06-01,Electricity Generation by Residual Fuel Oil (RFO),1162.5, GWh
+2018-06-01,Electricity Generation by Solar,57.05, GWh
+2018-06-01,Electricity Generation by Wind,427.29, GWh
+2018-06-01,Electricity Generation by bagasse,109.25, GWh
+2018-06-01,Electricity imported from Iran,52.88, GWh
+2018-06-01,Total Electricity Generation by all Sources,12913.76, GWh
+2018-07-01,Electricity Generation by Coal,1736.77, GWh
+2018-07-01,Electricity Generation by Gas,2045.43, GWh
+2018-07-01,Electricity Generation by High Speed Diesel (HSD),10.74, GWh
+2018-07-01,Electricity Generation by Hydel,3891.51, GWh
+2018-07-01,Electricity Generation by Mixed,58.02, GWh
+2018-07-01,Electricity Generation by Nuclear,735.65, GWh
+2018-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3370.24, GWh
+2018-07-01,Electricity Generation by Residual Fuel Oil (RFO),1283.76, GWh
+2018-07-01,Electricity Generation by Solar,61.52, GWh
+2018-07-01,Electricity Generation by Wind,428.92, GWh
+2018-07-01,Electricity Generation by bagasse,99.86, GWh
+2018-07-01,Electricity imported from Iran,29.39, GWh
+2018-07-01,Total Electricity Generation by all Sources,13751.81, GWh
+2018-08-01,Electricity Generation by Coal,1343.77, GWh
+2018-08-01,Electricity Generation by Gas,2039.67, GWh
+2018-08-01,Electricity Generation by High Speed Diesel (HSD),6.07, GWh
+2018-08-01,Electricity Generation by Hydel,4478.41, GWh
+2018-08-01,Electricity Generation by Mixed,58.0, GWh
+2018-08-01,Electricity Generation by Nuclear,628.27, GWh
+2018-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3187.48, GWh
+2018-08-01,Electricity Generation by Residual Fuel Oil (RFO),1643.75, GWh
+2018-08-01,Electricity Generation by Solar,63.67, GWh
+2018-08-01,Electricity Generation by Wind,439.3, GWh
+2018-08-01,Electricity Generation by bagasse,80.27, GWh
+2018-08-01,Electricity imported from Iran,48.83, GWh
+2018-08-01,Total Electricity Generation by all Sources,14017.49, GWh
+2018-09-01,Electricity Generation by Coal,1149.17, GWh
+2018-09-01,Electricity Generation by Gas,1980.34, GWh
+2018-09-01,Electricity Generation by High Speed Diesel (HSD),1.93, GWh
+2018-09-01,Electricity Generation by Hydel,4279.5, GWh
+2018-09-01,Electricity Generation by Mixed,53.21, GWh
+2018-09-01,Electricity Generation by Nuclear,681.93, GWh
+2018-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2847.33, GWh
+2018-09-01,Electricity Generation by Residual Fuel Oil (RFO),1024.88, GWh
+2018-09-01,Electricity Generation by Solar,64.38, GWh
+2018-09-01,Electricity Generation by Wind,342.35, GWh
+2018-09-01,Electricity Generation by bagasse,79.97, GWh
+2018-09-01,Electricity imported from Iran,47.07, GWh
+2018-09-01,Total Electricity Generation by all Sources,12552.06, GWh
+2018-10-01,Electricity Generation by Coal,1115.7, GWh
+2018-10-01,Electricity Generation by Gas,1913.1, GWh
+2018-10-01,Electricity Generation by Hydel,2389.95, GWh
+2018-10-01,Electricity Generation by Mixed,48.34, GWh
+2018-10-01,Electricity Generation by Nuclear,887.67, GWh
+2018-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2194.68, GWh
+2018-10-01,Electricity Generation by Residual Fuel Oil (RFO),754.35, GWh
+2018-10-01,Electricity Generation by Solar,61.44, GWh
+2018-10-01,Electricity Generation by Wind,94.05, GWh
+2018-10-01,Electricity Generation by bagasse,68.56, GWh
+2018-10-01,Electricity imported from Iran,45.95, GWh
+2018-10-01,Total Electricity Generation by all Sources,9573.79, GWh
+2018-11-01,Electricity Generation by Coal,1043.72, GWh
+2018-11-01,Electricity Generation by Gas,1511.98, GWh
+2018-11-01,Electricity Generation by Hydel,2563.97, GWh
+2018-11-01,Electricity Generation by Mixed,25.65, GWh
+2018-11-01,Electricity Generation by Nuclear,821.05, GWh
+2018-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1299.75, GWh
+2018-11-01,Electricity Generation by Residual Fuel Oil (RFO),5.75, GWh
+2018-11-01,Electricity Generation by Solar,48.03, GWh
+2018-11-01,Electricity Generation by Wind,126.87, GWh
+2018-11-01,Electricity Generation by bagasse,59.7, GWh
+2018-11-01,Electricity imported from Iran,39.16, GWh
+2018-11-01,Total Electricity Generation by all Sources,7545.63, GWh
+2018-12-01,Electricity Generation by Coal,1563.12875, GWh
+2018-12-01,Electricity Generation by Gas,1679.262704, GWh
+2018-12-01,Electricity Generation by Hydel,1334.488221, GWh
+2018-12-01,Electricity Generation by Mixed,23.75873, GWh
+2018-12-01,Electricity Generation by Nuclear,896.588, GWh
+2018-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),960.53882, GWh
+2018-12-01,Electricity Generation by Residual Fuel Oil (RFO),930.784947, GWh
+2018-12-01,Electricity Generation by Solar,52.93291, GWh
+2018-12-01,Electricity Generation by Wind,170.659426, GWh
+2018-12-01,Electricity Generation by bagasse,70.39088, GWh
+2018-12-01,Electricity imported from Iran,38.1136, GWh
+2018-12-01,Total Electricity Generation by all Sources,7720.646988, GWh
+2019-01-01,Electricity Generation by Coal,1451.8, GWh
+2019-01-01,Electricity Generation by Gas,1709.42, GWh
+2019-01-01,Electricity Generation by High Speed Diesel (HSD),12.26, GWh
+2019-01-01,Electricity Generation by Hydel,477.62, GWh
+2019-01-01,Electricity Generation by Mixed,25.62, GWh
+2019-01-01,Electricity Generation by Nuclear,905.62, GWh
+2019-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1138.25, GWh
+2019-01-01,Electricity Generation by Residual Fuel Oil (RFO),1722.06, GWh
+2019-01-01,Electricity Generation by Solar,43.2, GWh
+2019-01-01,Electricity Generation by Wind,156.27, GWh
+2019-01-01,Electricity Generation by bagasse,86.42, GWh
+2019-01-01,Electricity imported from Iran,35.04, GWh
+2019-01-01,Total Electricity Generation by all Sources,7763.58, GWh
+2019-02-01,Electricity Generation by Coal,1167.69, GWh
+2019-02-01,Electricity Generation by Gas,1595.08, GWh
+2019-02-01,Electricity Generation by Hydel,1522.6, GWh
+2019-02-01,Electricity Generation by Mixed,23.49, GWh
+2019-02-01,Electricity Generation by Nuclear,744.03, GWh
+2019-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1129.23, GWh
+2019-02-01,Electricity Generation by Residual Fuel Oil (RFO),112.35, GWh
+2019-02-01,Electricity Generation by Solar,52.94, GWh
+2019-02-01,Electricity Generation by Wind,212.51, GWh
+2019-02-01,Electricity Generation by bagasse,98.53, GWh
+2019-02-01,Electricity imported from Iran,28.38, GWh
+2019-02-01,Total Electricity Generation by all Sources,6686.83, GWh
+2019-03-01,Electricity Generation by Coal,1068.76, GWh
+2019-03-01,Electricity Generation by Gas,1832.86, GWh
+2019-03-01,Electricity Generation by Hydel,1601.12, GWh
+2019-03-01,Electricity Generation by Mixed,33.66, GWh
+2019-03-01,Electricity Generation by Nuclear,877.65, GWh
+2019-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1883.76, GWh
+2019-03-01,Electricity Generation by Residual Fuel Oil (RFO),40.29, GWh
+2019-03-01,Electricity Generation by Solar,66.9, GWh
+2019-03-01,Electricity Generation by Wind,186.82, GWh
+2019-03-01,Electricity Generation by bagasse,95.28, GWh
+2019-03-01,Electricity imported from Iran,34.21, GWh
+2019-03-01,Total Electricity Generation by all Sources,7721.31, GWh
+2019-04-01,Electricity Generation by Coal,1005.04, GWh
+2019-04-01,Electricity Generation by Gas,1789.5, GWh
+2019-04-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2019-04-01,Electricity Generation by Hydel,2229.41, GWh
+2019-04-01,Electricity Generation by Mixed,28.57, GWh
+2019-04-01,Electricity Generation by Nuclear,745.2, GWh
+2019-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2995.81, GWh
+2019-04-01,Electricity Generation by Residual Fuel Oil (RFO),481.05, GWh
+2019-04-01,Electricity Generation by Solar,66.5, GWh
+2019-04-01,Electricity Generation by Wind,267.44, GWh
+2019-04-01,Electricity Generation by bagasse,66.43, GWh
+2019-04-01,Electricity imported from Iran,42.43, GWh
+2019-04-01,Total Electricity Generation by all Sources,9717.38, GWh
+2019-05-01,Electricity Generation by Coal,1628.88, GWh
+2019-05-01,Electricity Generation by Gas,2056.55, GWh
+2019-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2019-05-01,Electricity Generation by Hydel,3747.21, GWh
+2019-05-01,Electricity Generation by Mixed,15.27, GWh
+2019-05-01,Electricity Generation by Nuclear,543.61, GWh
+2019-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3624.86, GWh
+2019-05-01,Electricity Generation by Residual Fuel Oil (RFO),397.92, GWh
+2019-05-01,Electricity Generation by Solar,69.08, GWh
+2019-05-01,Electricity Generation by Wind,413.31, GWh
+2019-05-01,Electricity Generation by bagasse,54.47, GWh
+2019-05-01,Electricity imported from Iran,52.43, GWh
+2019-05-01,Total Electricity Generation by all Sources,12603.59, GWh
+2019-06-01,Electricity Generation by Coal,2037.45, GWh
+2019-06-01,Electricity Generation by Gas,1880.88, GWh
+2019-06-01,Electricity Generation by Hydel,3840.0, GWh
+2019-06-01,Electricity Generation by Mixed,11.53, GWh
+2019-06-01,Electricity Generation by Nuclear,538.43, GWh
+2019-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3613.71, GWh
+2019-06-01,Electricity Generation by Residual Fuel Oil (RFO),694.84, GWh
+2019-06-01,Electricity Generation by Solar,63.92, GWh
+2019-06-01,Electricity Generation by Wind,393.14, GWh
+2019-06-01,Electricity Generation by bagasse,34.55, GWh
+2019-06-01,Electricity imported from Iran,48.79, GWh
+2019-06-01,Total Electricity Generation by all Sources,13157.24, GWh
+2019-07-01,Electricity Generation by Coal,2038.94, GWh
+2019-07-01,Electricity Generation by Gas,1680.92, GWh
+2019-07-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2019-07-01,Electricity Generation by Hydel,4629.48, GWh
+2019-07-01,Electricity Generation by Mixed,10.18, GWh
+2019-07-01,Electricity Generation by Nuclear,826.64, GWh
+2019-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3516.71, GWh
+2019-07-01,Electricity Generation by Residual Fuel Oil (RFO),783.08, GWh
+2019-07-01,Electricity Generation by Solar,60.15, GWh
+2019-07-01,Electricity Generation by Wind,596.17, GWh
+2019-07-01,Electricity Generation by bagasse,35.51, GWh
+2019-07-01,Electricity imported from Iran,53.47, GWh
+2019-07-01,Total Electricity Generation by all Sources,14231.25, GWh
+2019-08-01,Electricity Generation by Coal,1873.91, GWh
+2019-08-01,Electricity Generation by Gas,1668.49, GWh
+2019-08-01,Electricity Generation by Hydel,5667.51, GWh
+2019-08-01,Electricity Generation by Mixed,10.02, GWh
+2019-08-01,Electricity Generation by Nuclear,654.99, GWh
+2019-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3216.04, GWh
+2019-08-01,Electricity Generation by Residual Fuel Oil (RFO),505.92, GWh
+2019-08-01,Electricity Generation by Solar,61.81, GWh
+2019-08-01,Electricity Generation by Wind,322.43, GWh
+2019-08-01,Electricity Generation by bagasse,17.98, GWh
+2019-08-01,Electricity imported from Iran,52.45, GWh
+2019-08-01,Total Electricity Generation by all Sources,14051.55, GWh
+2019-09-01,Electricity Generation by Coal,2232.0, GWh
+2019-09-01,Electricity Generation by Gas,1615.0, GWh
+2019-09-01,Electricity Generation by Hydel,5053.0, GWh
+2019-09-01,Electricity Generation by Mixed,10.0, GWh
+2019-09-01,Electricity Generation by Nuclear,749.0, GWh
+2019-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2868.0, GWh
+2019-09-01,Electricity Generation by Residual Fuel Oil (RFO),817.0, GWh
+2019-09-01,Electricity Generation by Solar,62.0, GWh
+2019-09-01,Electricity Generation by Wind,150.0, GWh
+2019-09-01,Electricity Generation by bagasse,15.0, GWh
+2019-09-01,Electricity imported from Iran,50.0, GWh
+2019-09-01,Total Electricity Generation by all Sources,13621.0, GWh
+2019-10-01,Electricity Generation by Coal,2356.9, GWh
+2019-10-01,Electricity Generation by Gas,1164.94, GWh
+2019-10-01,Electricity Generation by Hydel,2438.8, GWh
+2019-10-01,Electricity Generation by Mixed,13.07, GWh
+2019-10-01,Electricity Generation by Nuclear,883.23, GWh
+2019-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2432.73, GWh
+2019-10-01,Electricity Generation by Residual Fuel Oil (RFO),19.26, GWh
+2019-10-01,Electricity Generation by Solar,61.58, GWh
+2019-10-01,Electricity Generation by Wind,153.05, GWh
+2019-10-01,Electricity Generation by bagasse,5.43, GWh
+2019-10-01,Electricity imported from Iran,43.05, GWh
+2019-10-01,Total Electricity Generation by all Sources,9572.04, GWh
+2019-11-01,Electricity Generation by Coal,2030.23, GWh
+2019-11-01,Electricity Generation by Gas,694.55, GWh
+2019-11-01,Electricity Generation by Hydel,2900.0, GWh
+2019-11-01,Electricity Generation by Mixed,14.16, GWh
+2019-11-01,Electricity Generation by Nuclear,858.43, GWh
+2019-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),684.06, GWh
+2019-11-01,Electricity Generation by Residual Fuel Oil (RFO),2.0, GWh
+2019-11-01,Electricity Generation by Solar,49.18, GWh
+2019-11-01,Electricity Generation by Wind,151.82, GWh
+2019-11-01,Electricity Generation by bagasse,17.43, GWh
+2019-11-01,Electricity imported from Iran,35.57, GWh
+2019-11-01,Total Electricity Generation by all Sources,7433.75, GWh
+2019-12-01,Electricity Generation by Coal,2171.05, GWh
+2019-12-01,Electricity Generation by Gas,1146.03, GWh
+2019-12-01,Electricity Generation by Hydel,1723.29, GWh
+2019-12-01,Electricity Generation by Mixed,2.81, GWh
+2019-12-01,Electricity Generation by Nuclear,699.72, GWh
+2019-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1134.85, GWh
+2019-12-01,Electricity Generation by Residual Fuel Oil (RFO),366.69, GWh
+2019-12-01,Electricity Generation by Solar,43.36, GWh
+2019-12-01,Electricity Generation by Wind,145.6, GWh
+2019-12-01,Electricity Generation by bagasse,90.91, GWh
+2019-12-01,Electricity imported from Iran,32.55, GWh
+2019-12-01,Total Electricity Generation by all Sources,7556.86, GWh
+2020-01-01,Electricity Generation by Coal,2500.78, GWh
+2020-01-01,Electricity Generation by Gas,1653.58, GWh
+2020-01-01,Electricity Generation by Hydel,867.73, GWh
+2020-01-01,Electricity Generation by Mixed,15.6, GWh
+2020-01-01,Electricity Generation by Nuclear,680.95, GWh
+2020-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),957.82, GWh
+2020-01-01,Electricity Generation by Residual Fuel Oil (RFO),800.94, GWh
+2020-01-01,Electricity Generation by Solar,44.84, GWh
+2020-01-01,Electricity Generation by Wind,157.55, GWh
+2020-01-01,Electricity Generation by bagasse,84.45, GWh
+2020-01-01,Electricity imported from Iran,28.73, GWh
+2020-01-01,Total Electricity Generation by all Sources,7792.97, GWh
+2020-02-01,Electricity Generation by Coal,2087.0, GWh
+2020-02-01,Electricity Generation by Gas,919.0, GWh
+2020-02-01,Electricity Generation by Hydel,2258.0, GWh
+2020-02-01,Electricity Generation by Mixed,10.0, GWh
+2020-02-01,Electricity Generation by Nuclear,758.0, GWh
+2020-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),593.0, GWh
+2020-02-01,Electricity Generation by Residual Fuel Oil (RFO),78.0, GWh
+2020-02-01,Electricity Generation by Solar,61.0, GWh
+2020-02-01,Electricity Generation by Wind,105.0, GWh
+2020-02-01,Electricity Generation by bagasse,100.0, GWh
+2020-02-01,Electricity imported from Iran,32.0, GWh
+2020-02-01,Total Electricity Generation by all Sources,7001.0, GWh
+2020-03-01,Electricity Generation by Coal,2093.0, GWh
+2020-03-01,Electricity Generation by Gas,1182.0, GWh
+2020-03-01,Electricity Generation by Hydel,1407.0, GWh
+2020-03-01,Electricity Generation by Mixed,38.0, GWh
+2020-03-01,Electricity Generation by Nuclear,913.0, GWh
+2020-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),993.0, GWh
+2020-03-01,Electricity Generation by Residual Fuel Oil (RFO),2.0, GWh
+2020-03-01,Electricity Generation by Solar,64.0, GWh
+2020-03-01,Electricity Generation by Wind,107.0, GWh
+2020-03-01,Electricity Generation by bagasse,78.0, GWh
+2020-03-01,Electricity imported from Iran,34.0, GWh
+2020-03-01,Total Electricity Generation by all Sources,6911.0, GWh
+2020-04-01,Electricity Generation by Coal,1824.0, GWh
+2020-04-01,Electricity Generation by Gas,889.0, GWh
+2020-04-01,Electricity Generation by Hydel,2482.0, GWh
+2020-04-01,Electricity Generation by Mixed,10.0, GWh
+2020-04-01,Electricity Generation by Nuclear,886.0, GWh
+2020-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1874.0, GWh
+2020-04-01,Electricity Generation by Residual Fuel Oil (RFO),30.0, GWh
+2020-04-01,Electricity Generation by Solar,68.0, GWh
+2020-04-01,Electricity Generation by Wind,232.0, GWh
+2020-04-01,Electricity Generation by bagasse,53.0, GWh
+2020-04-01,Electricity imported from Iran,44.0, GWh
+2020-04-01,Total Electricity Generation by all Sources,8392.0, GWh
+2020-05-01,Electricity Generation by Coal,2189.0, GWh
+2020-05-01,Electricity Generation by Gas,1014.0, GWh
+2020-05-01,Electricity Generation by Hydel,4457.0, GWh
+2020-05-01,Electricity Generation by Mixed,33.0, GWh
+2020-05-01,Electricity Generation by Nuclear,915.0, GWh
+2020-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2734.0, GWh
+2020-05-01,Electricity Generation by Residual Fuel Oil (RFO),130.0, GWh
+2020-05-01,Electricity Generation by Solar,67.0, GWh
+2020-05-01,Electricity Generation by Wind,388.0, GWh
+2020-05-01,Electricity Generation by bagasse,36.0, GWh
+2020-05-01,Electricity imported from Iran,54.0, GWh
+2020-05-01,Total Electricity Generation by all Sources,12017.0, GWh
+2020-06-01,Electricity Generation by Coal,2156.0, GWh
+2020-06-01,Electricity Generation by Gas,1436.0, GWh
+2020-06-01,Electricity Generation by Hydel,4817.0, GWh
+2020-06-01,Electricity Generation by Mixed,4.0, GWh
+2020-06-01,Electricity Generation by Nuclear,880.0, GWh
+2020-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2826.0, GWh
+2020-06-01,Electricity Generation by Residual Fuel Oil (RFO),647.0, GWh
+2020-06-01,Electricity Generation by Solar,64.0, GWh
+2020-06-01,Electricity Generation by Wind,374.0, GWh
+2020-06-01,Electricity Generation by bagasse,31.0, GWh
+2020-06-01,Electricity imported from Iran,53.0, GWh
+2020-06-01,Total Electricity Generation by all Sources,13288.0, GWh
+2020-07-01,Electricity Generation by Coal,2581.16, GWh
+2020-07-01,Electricity Generation by Gas,1478.88, GWh
+2020-07-01,Electricity Generation by High Speed Diesel (HSD),113.09, GWh
+2020-07-01,Electricity Generation by Hydel,5406.99, GWh
+2020-07-01,Electricity Generation by Mixed,30.03, GWh
+2020-07-01,Electricity Generation by Nuclear,715.53, GWh
+2020-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3032.69, GWh
+2020-07-01,Electricity Generation by Residual Fuel Oil (RFO),859.81, GWh
+2020-07-01,Electricity Generation by Solar,63.23, GWh
+2020-07-01,Electricity Generation by Wind,344.46, GWh
+2020-07-01,Electricity Generation by bagasse,34.96, GWh
+2020-07-01,Electricity imported from Iran,50.25, GWh
+2020-07-01,Total Electricity Generation by all Sources,14711.08, GWh
+2020-08-01,Electricity Generation by Coal,2530.0, GWh
+2020-08-01,Electricity Generation by Gas,1402.45, GWh
+2020-08-01,Electricity Generation by High Speed Diesel (HSD),97.76, GWh
+2020-08-01,Electricity Generation by Hydel,5469.55, GWh
+2020-08-01,Electricity Generation by Mixed,20.26, GWh
+2020-08-01,Electricity Generation by Nuclear,817.0, GWh
+2020-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3058.0, GWh
+2020-08-01,Electricity Generation by Residual Fuel Oil (RFO),792.38, GWh
+2020-08-01,Electricity Generation by Solar,60.04, GWh
+2020-08-01,Electricity Generation by Wind,310.13, GWh
+2020-08-01,Electricity Generation by bagasse,20.04, GWh
+2020-08-01,Electricity imported from Iran,52.09, GWh
+2020-08-01,Total Electricity Generation by all Sources,14629.7, GWh
+2020-09-01,Electricity Generation by Coal,2282.847425, GWh
+2020-09-01,Electricity Generation by Gas,1324.131278, GWh
+2020-09-01,Electricity Generation by High Speed Diesel (HSD),71.702078, GWh
+2020-09-01,Electricity Generation by Hydel,4871.459453, GWh
+2020-09-01,Electricity Generation by Mixed,11.90246, GWh
+2020-09-01,Electricity Generation by Nuclear,677.89, GWh
+2020-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2804.558366, GWh
+2020-09-01,Electricity Generation by Residual Fuel Oil (RFO),762.420111, GWh
+2020-09-01,Electricity Generation by Solar,61.745746, GWh
+2020-09-01,Electricity Generation by Wind,175.09473, GWh
+2020-09-01,Electricity Generation by bagasse,12.8873, GWh
+2020-09-01,Electricity imported from Iran,46.6614, GWh
+2020-09-01,Total Electricity Generation by all Sources,13103.30035, GWh
+2020-10-01,Electricity Generation by Coal,1916.581, GWh
+2020-10-01,Electricity Generation by Gas,1145.326, GWh
+2020-10-01,Electricity Generation by High Speed Diesel (HSD),6.604, GWh
+2020-10-01,Electricity Generation by Hydel,3174.153, GWh
+2020-10-01,Electricity Generation by Mixed,134.082, GWh
+2020-10-01,Electricity Generation by Nuclear,714.583, GWh
+2020-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2851.04, GWh
+2020-10-01,Electricity Generation by Residual Fuel Oil (RFO),154.474, GWh
+2020-10-01,Electricity Generation by Solar,23.82, GWh
+2020-10-01,Electricity Generation by Wind,60.641, GWh
+2020-10-01,Electricity Generation by bagasse,22.135, GWh
+2020-10-01,Electricity imported from Iran,40.555, GWh
+2020-10-01,Total Electricity Generation by all Sources,10243.994, GWh
+2020-11-01,Electricity Generation by Coal,1085.43, GWh
+2020-11-01,Electricity Generation by Gas,437.043, GWh
+2020-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2020-11-01,Electricity Generation by Hydel,2990.349, GWh
+2020-11-01,Electricity Generation by Mixed,184.918, GWh
+2020-11-01,Electricity Generation by Nuclear,663.299, GWh
+2020-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1913.991, GWh
+2020-11-01,Electricity Generation by Residual Fuel Oil (RFO),27.772, GWh
+2020-11-01,Electricity Generation by Solar,26.128, GWh
+2020-11-01,Electricity Generation by Wind,47.018, GWh
+2020-11-01,Electricity Generation by bagasse,69.992, GWh
+2020-11-01,Electricity imported from Iran,33.461, GWh
+2020-11-01,Total Electricity Generation by all Sources,7479.401, GWh
+2020-12-01,Electricity Generation by Coal,2296.889, GWh
+2020-12-01,Electricity Generation by Gas,1239.585, GWh
+2020-12-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2020-12-01,Electricity Generation by Hydel,1788.826, GWh
+2020-12-01,Electricity Generation by Mixed,218.722, GWh
+2020-12-01,Electricity Generation by Nuclear,741.459, GWh
+2020-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1094.096, GWh
+2020-12-01,Electricity Generation by Residual Fuel Oil (RFO),293.922, GWh
+2020-12-01,Electricity Generation by Solar,20.003, GWh
+2020-12-01,Electricity Generation by Wind,49.948, GWh
+2020-12-01,Electricity Generation by bagasse,102.171, GWh
+2020-12-01,Electricity imported from Iran,33.29, GWh
+2020-12-01,Total Electricity Generation by all Sources,7878.911, GWh
+2021-01-01,Electricity Generation by Coal,2559.5561, GWh
+2021-01-01,Electricity Generation by Gas,1333.801176, GWh
+2021-01-01,Electricity Generation by High Speed Diesel (HSD),46.203137, GWh
+2021-01-01,Electricity Generation by Hydel,1067.03733, GWh
+2021-01-01,Electricity Generation by Mixed,1.063541, GWh
+2021-01-01,Electricity Generation by Nuclear,852.685, GWh
+2021-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),916.418847, GWh
+2021-01-01,Electricity Generation by Residual Fuel Oil (RFO),974.031592, GWh
+2021-01-01,Electricity Generation by Solar,47.92081, GWh
+2021-01-01,Electricity Generation by Wind,152.568226, GWh
+2021-01-01,Electricity Generation by bagasse,95.889919, GWh
+2021-01-01,Electricity imported from Iran,31.6462, GWh
+2021-01-01,Total Electricity Generation by all Sources,8078.821878, GWh
+2021-02-01,Electricity Generation by Coal,1902.98, GWh
+2021-02-01,Electricity Generation by Gas,906.37, GWh
+2021-02-01,Electricity Generation by Hydel,2033.93, GWh
+2021-02-01,Electricity Generation by Mixed,98.111, GWh
+2021-02-01,Electricity Generation by Nuclear,791.909, GWh
+2021-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1271.041, GWh
+2021-02-01,Electricity Generation by Residual Fuel Oil (RFO),77.307, GWh
+2021-02-01,Electricity Generation by Solar,13.369, GWh
+2021-02-01,Electricity Generation by Wind,57.059, GWh
+2021-02-01,Electricity Generation by bagasse,99.274, GWh
+2021-02-01,Electricity imported from Iran,29.65, GWh
+2021-02-01,Total Electricity Generation by all Sources,7281.0, GWh
+2021-03-01,Electricity Generation by Coal,2734.387, GWh
+2021-03-01,Electricity Generation by Gas,1036.221, GWh
+2021-03-01,Electricity Generation by Hydel,1740.579, GWh
+2021-03-01,Electricity Generation by Mixed,169.5198, GWh
+2021-03-01,Electricity Generation by Nuclear,940.155, GWh
+2021-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1892.774, GWh
+2021-03-01,Electricity Generation by Residual Fuel Oil (RFO),235.123, GWh
+2021-03-01,Electricity Generation by Solar,20.885, GWh
+2021-03-01,Electricity Generation by Wind,86.37, GWh
+2021-03-01,Electricity Generation by bagasse,90.082, GWh
+2021-03-01,Electricity imported from Iran,38.701, GWh
+2021-03-01,Total Electricity Generation by all Sources,8984.7968, GWh
+2021-04-01,Electricity Generation by Coal,2439.883, GWh
+2021-04-01,Electricity Generation by Gas,1277.923, GWh
+2021-04-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2021-04-01,Electricity Generation by Hydel,2572.581, GWh
+2021-04-01,Electricity Generation by Mixed,22.735, GWh
+2021-04-01,Electricity Generation by Nuclear,1067.087, GWh
+2021-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2571.554, GWh
+2021-04-01,Electricity Generation by Residual Fuel Oil (RFO),147.8507, GWh
+2021-04-01,Electricity Generation by Solar,68.024, GWh
+2021-04-01,Electricity Generation by Wind,197.301, GWh
+2021-04-01,Electricity Generation by bagasse,71.182, GWh
+2021-04-01,Electricity imported from Iran,44.841, GWh
+2021-04-01,Total Electricity Generation by all Sources,10480.9617, GWh
+2021-05-01,Electricity Generation by Coal,2618.972, GWh
+2021-05-01,Electricity Generation by Gas,1454.391295, GWh
+2021-05-01,Electricity Generation by High Speed Diesel (HSD),20.319193, GWh
+2021-05-01,Electricity Generation by Hydel,3465.45727, GWh
+2021-05-01,Electricity Generation by Mixed,16.387044, GWh
+2021-05-01,Electricity Generation by Nuclear,1271.3465, GWh
+2021-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2828.551746, GWh
+2021-05-01,Electricity Generation by Residual Fuel Oil (RFO),771.48986, GWh
+2021-05-01,Electricity Generation by Solar,66.53917, GWh
+2021-05-01,Electricity Generation by Wind,403.212039, GWh
+2021-05-01,Electricity Generation by bagasse,45.4526, GWh
+2021-05-01,Electricity imported from Iran,47.3884, GWh
+2021-05-01,Total Electricity Generation by all Sources,13009.50712, GWh
+2021-06-01,Electricity Generation by Coal,2589.7691, GWh
+2021-06-01,Electricity Generation by Gas,1303.84056, GWh
+2021-06-01,Electricity Generation by High Speed Diesel (HSD),61.34539, GWh
+2021-06-01,Electricity Generation by Hydel,4222.147285, GWh
+2021-06-01,Electricity Generation by Mixed,10.210301, GWh
+2021-06-01,Electricity Generation by Nuclear,1618.0585, GWh
+2021-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2701.340793, GWh
+2021-06-01,Electricity Generation by Residual Fuel Oil (RFO),1174.199115, GWh
+2021-06-01,Electricity Generation by Solar,63.09401, GWh
+2021-06-01,Electricity Generation by Wind,510.75539, GWh
+2021-06-01,Electricity Generation by bagasse,56.45481, GWh
+2021-06-01,Electricity imported from Iran,49.9084, GWh
+2021-06-01,Total Electricity Generation by all Sources,14361.12365, GWh
+2021-07-01,Electricity Generation by Coal,2383.3276, GWh
+2021-07-01,Electricity Generation by Gas,1361.171911, GWh
+2021-07-01,Electricity Generation by High Speed Diesel (HSD),123.488094, GWh
+2021-07-01,Electricity Generation by Hydel,4694.66222, GWh
+2021-07-01,Electricity Generation by Mixed,9.861874, GWh
+2021-07-01,Electricity Generation by Nuclear,1659.851, GWh
+2021-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3137.679332, GWh
+2021-07-01,Electricity Generation by Residual Fuel Oil (RFO),1612.343217, GWh
+2021-07-01,Electricity Generation by Solar,61.81996, GWh
+2021-07-01,Electricity Generation by Wind,550.374408, GWh
+2021-07-01,Electricity Generation by bagasse,45.01828, GWh
+2021-07-01,Electricity imported from Iran,40.093, GWh
+2021-07-01,Total Electricity Generation by all Sources,15679.6909, GWh
+2021-08-01,Electricity Generation by Coal,2293.825, GWh
+2021-08-01,Electricity Generation by Gas,1313.211, GWh
+2021-08-01,Electricity Generation by High Speed Diesel (HSD),19.84, GWh
+2021-08-01,Electricity Generation by Hydel,5594.298, GWh
+2021-08-01,Electricity Generation by Mixed,16.977, GWh
+2021-08-01,Electricity Generation by Nuclear,1630.186, GWh
+2021-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2895.923, GWh
+2021-08-01,Electricity Generation by Residual Fuel Oil (RFO),1627.559, GWh
+2021-08-01,Electricity Generation by Solar,67.005, GWh
+2021-08-01,Electricity Generation by Wind,549.952, GWh
+2021-08-01,Electricity Generation by bagasse,24.059, GWh
+2021-08-01,Electricity imported from Iran,45.243, GWh
+2021-08-01,Total Electricity Generation by all Sources,16078.078, GWh
+2021-09-01,Electricity Generation by Coal,2382.517, GWh
+2021-09-01,Electricity Generation by Gas,1248.277, GWh
+2021-09-01,Electricity Generation by High Speed Diesel (HSD),23.42, GWh
+2021-09-01,Electricity Generation by Hydel,5085.479, GWh
+2021-09-01,Electricity Generation by Mixed,18.181, GWh
+2021-09-01,Electricity Generation by Nuclear,1261.796, GWh
+2021-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2651.951, GWh
+2021-09-01,Electricity Generation by Residual Fuel Oil (RFO),997.438, GWh
+2021-09-01,Electricity Generation by Solar,60.754, GWh
+2021-09-01,Electricity Generation by Wind,230.399, GWh
+2021-09-01,Electricity Generation by bagasse,18.479, GWh
+2021-09-01,Electricity imported from Iran,48.296, GWh
+2021-09-01,Total Electricity Generation by all Sources,14026.987, GWh
+2021-10-01,Electricity Generation by Coal,1885.7801, GWh
+2021-10-01,Electricity Generation by Gas,1092.745966, GWh
+2021-10-01,Electricity Generation by High Speed Diesel (HSD),57.096242, GWh
+2021-10-01,Electricity Generation by Hydel,2627.246562, GWh
+2021-10-01,Electricity Generation by Mixed,11.870853, GWh
+2021-10-01,Electricity Generation by Nuclear,1392.916, GWh
+2021-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2703.375079, GWh
+2021-10-01,Electricity Generation by Residual Fuel Oil (RFO),1228.658849, GWh
+2021-10-01,Electricity Generation by Solar,63.16523, GWh
+2021-10-01,Electricity Generation by Wind,184.817298, GWh
+2021-10-01,Electricity Generation by bagasse,7.139192, GWh
+2021-10-01,Electricity imported from Iran,41.4139, GWh
+2021-10-01,Total Electricity Generation by all Sources,11296.22527, GWh
+2021-11-01,Electricity Generation by Coal,1379.121, GWh
+2021-11-01,Electricity Generation by Gas,1093.163, GWh
+2021-11-01,Electricity Generation by High Speed Diesel (HSD),24.99, GWh
+2021-11-01,Electricity Generation by Hydel,2816.493, GWh
+2021-11-01,Electricity Generation by Mixed,11.835, GWh
+2021-11-01,Electricity Generation by Nuclear,1485.186, GWh
+2021-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1208.697, GWh
+2021-11-01,Electricity Generation by Residual Fuel Oil (RFO),145.401, GWh
+2021-11-01,Electricity Generation by Solar,50.615, GWh
+2021-11-01,Electricity Generation by Wind,175.19, GWh
+2021-11-01,Electricity Generation by bagasse,54.335, GWh
+2021-11-01,Electricity imported from Iran,36.692, GWh
+2021-11-01,Total Electricity Generation by all Sources,8481.718, GWh
+2021-12-01,Electricity Generation by Coal,2103.648, GWh
+2021-12-01,Electricity Generation by Gas,1215.569, GWh
+2021-12-01,Electricity Generation by High Speed Diesel (HSD),238.57, GWh
+2021-12-01,Electricity Generation by Hydel,1768.836, GWh
+2021-12-01,Electricity Generation by Mixed,7.87, GWh
+2021-12-01,Electricity Generation by Nuclear,1549.06, GWh
+2021-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1191.79, GWh
+2021-12-01,Electricity Generation by Residual Fuel Oil (RFO),353.259, GWh
+2021-12-01,Electricity Generation by Solar,45.179, GWh
+2021-12-01,Electricity Generation by Wind,210.078, GWh
+2021-12-01,Electricity Generation by bagasse,94.725, GWh
+2021-12-01,Electricity imported from Iran,36.47, GWh
+2021-12-01,Total Electricity Generation by all Sources,8815.054, GWh
+2022-01-01,Electricity Generation by Coal,2916.697, GWh
+2022-01-01,Electricity Generation by Gas,1264.361, GWh
+2022-01-01,Electricity Generation by High Speed Diesel (HSD),592.077, GWh
+2022-01-01,Electricity Generation by Hydel,512.937, GWh
+2022-01-01,Electricity Generation by Mixed,2.295, GWh
+2022-01-01,Electricity Generation by Nuclear,1264.361, GWh
+2022-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),626.077, GWh
+2022-01-01,Electricity Generation by Residual Fuel Oil (RFO),1238.106, GWh
+2022-01-01,Electricity Generation by Solar,46.58, GWh
+2022-01-01,Electricity Generation by Wind,194.684, GWh
+2022-01-01,Electricity Generation by bagasse,107.133, GWh
+2022-01-01,Electricity imported from Iran,31.649, GWh
+2022-01-01,Total Electricity Generation by all Sources,8796.957, GWh
+2022-02-01,Electricity Generation by Coal,2563.872, GWh
+2022-02-01,Electricity Generation by Gas,918.396, GWh
+2022-02-01,Electricity Generation by Hydel,1473.761, GWh
+2022-02-01,Electricity Generation by Mixed,10.148, GWh
+2022-02-01,Electricity Generation by Nuclear,1013.255, GWh
+2022-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1226.007, GWh
+2022-02-01,Electricity Generation by Residual Fuel Oil (RFO),526.728, GWh
+2022-02-01,Electricity Generation by Solar,58.124, GWh
+2022-02-01,Electricity Generation by Wind,165.07, GWh
+2022-02-01,Electricity Generation by bagasse,98.665, GWh
+2022-02-01,Electricity imported from Iran,33.882, GWh
+2022-02-01,Total Electricity Generation by all Sources,8087.908, GWh
+2022-03-01,Electricity Generation by Coal,2586.623, GWh
+2022-03-01,Electricity Generation by Gas,992.723, GWh
+2022-03-01,Electricity Generation by Hydel,1703.912, GWh
+2022-03-01,Electricity Generation by Mixed,13.215, GWh
+2022-03-01,Electricity Generation by Nuclear,1563.663, GWh
+2022-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1965.683, GWh
+2022-03-01,Electricity Generation by Residual Fuel Oil (RFO),1106.194, GWh
+2022-03-01,Electricity Generation by Solar,68.731, GWh
+2022-03-01,Electricity Generation by Wind,267.922, GWh
+2022-03-01,Electricity Generation by bagasse,107.005, GWh
+2022-03-01,Electricity imported from Iran,42.747, GWh
+2022-03-01,Total Electricity Generation by all Sources,10418.418, GWh
+2022-04-01,Electricity Generation by Coal,2168.9, GWh
+2022-04-01,Electricity Generation by Gas,1276.6, GWh
+2022-04-01,Electricity Generation by High Speed Diesel (HSD),58.5, GWh
+2022-04-01,Electricity Generation by Hydel,2404.4, GWh
+2022-04-01,Electricity Generation by Mixed,9.4, GWh
+2022-04-01,Electricity Generation by Nuclear,2251.2, GWh
+2022-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2516.8, GWh
+2022-04-01,Electricity Generation by Residual Fuel Oil (RFO),1564.1, GWh
+2022-04-01,Electricity Generation by Solar,87.3, GWh
+2022-04-01,Electricity Generation by Wind,464.8, GWh
+2022-04-01,Electricity Generation by bagasse,106.5, GWh
+2022-04-01,Electricity imported from Iran,52.0, GWh
+2022-04-01,Total Electricity Generation by all Sources,12960.4, GWh
+2022-05-01,Electricity Generation by Coal,2018.5, GWh
+2022-05-01,Electricity Generation by Gas,1464.6, GWh
+2022-05-01,Electricity Generation by High Speed Diesel (HSD),28.5, GWh
+2022-05-01,Electricity Generation by Hydel,3590.8, GWh
+2022-05-01,Electricity Generation by Mixed,16.8, GWh
+2022-05-01,Electricity Generation by Nuclear,1890.4, GWh
+2022-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3355.2, GWh
+2022-05-01,Electricity Generation by Residual Fuel Oil (RFO),1290.3, GWh
+2022-05-01,Electricity Generation by Solar,89.9, GWh
+2022-05-01,Electricity Generation by Wind,779.1, GWh
+2022-05-01,Electricity Generation by bagasse,78.3, GWh
+2022-05-01,Electricity imported from Iran,54.5, GWh
+2022-05-01,Total Electricity Generation by all Sources,14656.9, GWh
+2022-06-01,Electricity Generation by Coal,1883.1, GWh
+2022-06-01,Electricity Generation by Gas,1479.3, GWh
+2022-06-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-06-01,Electricity Generation by Hydel,3361.2, GWh
+2022-06-01,Electricity Generation by Mixed,9.9, GWh
+2022-06-01,Electricity Generation by Nuclear,1265.7, GWh
+2022-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),3390.5, GWh
+2022-06-01,Electricity Generation by Residual Fuel Oil (RFO),1454.0, GWh
+2022-06-01,Electricity Generation by Solar,86.3, GWh
+2022-06-01,Electricity Generation by Wind,811.6, GWh
+2022-06-01,Electricity Generation by bagasse,83.0, GWh
+2022-06-01,Electricity imported from Iran,51.5, GWh
+2022-06-01,Total Electricity Generation by all Sources,13876.1, GWh
+2022-07-01,Electricity Generation by Coal,1802.2, GWh
+2022-07-01,Electricity Generation by Gas,1466.4, GWh
+2022-07-01,Electricity Generation by High Speed Diesel (HSD),206.0, GWh
+2022-07-01,Electricity Generation by Hydel,4976.9, GWh
+2022-07-01,Electricity Generation by Mixed,16.9, GWh
+2022-07-01,Electricity Generation by Nuclear,2009.5, GWh
+2022-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2119.6, GWh
+2022-07-01,Electricity Generation by Residual Fuel Oil (RFO),876.9, GWh
+2022-07-01,Electricity Generation by Solar,70.8, GWh
+2022-07-01,Electricity Generation by Wind,518.5, GWh
+2022-07-01,Electricity Generation by bagasse,40.6, GWh
+2022-07-01,Electricity imported from Iran,46.6, GWh
+2022-07-01,Total Electricity Generation by all Sources,14150.9, GWh
+2022-08-01,Electricity Generation by Coal,2163.0, GWh
+2022-08-01,Electricity Generation by Gas,1315.2, GWh
+2022-08-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-08-01,Electricity Generation by Hydel,5353.7, GWh
+2022-08-01,Electricity Generation by Mixed,17.8, GWh
+2022-08-01,Electricity Generation by Nuclear,1874.0, GWh
+2022-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1755.8, GWh
+2022-08-01,Electricity Generation by Residual Fuel Oil (RFO),1021.4, GWh
+2022-08-01,Electricity Generation by Solar,73.4, GWh
+2022-08-01,Electricity Generation by Wind,390.7, GWh
+2022-08-01,Electricity Generation by bagasse,33.1, GWh
+2022-08-01,Electricity imported from Iran,54.5, GWh
+2022-08-01,Total Electricity Generation by all Sources,14052.6, GWh
+2022-09-01,Electricity Generation by Coal,1449.2, GWh
+2022-09-01,Electricity Generation by Gas,1205.5, GWh
+2022-09-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-09-01,Electricity Generation by Hydel,4403.8, GWh
+2022-09-01,Electricity Generation by Mixed,15.9, GWh
+2022-09-01,Electricity Generation by Nuclear,2265.5, GWh
+2022-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1821.2, GWh
+2022-09-01,Electricity Generation by Residual Fuel Oil (RFO),1080.5, GWh
+2022-09-01,Electricity Generation by Solar,81.7, GWh
+2022-09-01,Electricity Generation by Wind,466.9, GWh
+2022-09-01,Electricity Generation by bagasse,34.0, GWh
+2022-09-01,Electricity imported from Iran,53.7, GWh
+2022-09-01,Total Electricity Generation by all Sources,12877.8, GWh
+2022-10-01,Electricity Generation by Coal,1656.5, GWh
+2022-10-01,Electricity Generation by Gas,1296.4, GWh
+2022-10-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-10-01,Electricity Generation by Hydel,3143.6, GWh
+2022-10-01,Electricity Generation by Mixed,14.8, GWh
+2022-10-01,Electricity Generation by Nuclear,2206.3, GWh
+2022-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1843.7, GWh
+2022-10-01,Electricity Generation by Residual Fuel Oil (RFO),156.6, GWh
+2022-10-01,Electricity Generation by Solar,79.1, GWh
+2022-10-01,Electricity Generation by Wind,222.4, GWh
+2022-10-01,Electricity Generation by bagasse,37.8, GWh
+2022-10-01,Electricity imported from Iran,47.8, GWh
+2022-10-01,Total Electricity Generation by all Sources,10704.9, GWh
+2022-11-01,Electricity Generation by Coal,975.0, GWh
+2022-11-01,Electricity Generation by Gas,1189.0, GWh
+2022-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-11-01,Electricity Generation by Hydel,2484.0, GWh
+2022-11-01,Electricity Generation by Mixed,7.0, GWh
+2022-11-01,Electricity Generation by Nuclear,2338.0, GWh
+2022-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1012.0, GWh
+2022-11-01,Electricity Generation by Residual Fuel Oil (RFO),11.0, GWh
+2022-11-01,Electricity Generation by Solar,79.0, GWh
+2022-11-01,Electricity Generation by Wind,158.0, GWh
+2022-11-01,Electricity Generation by bagasse,70.0, GWh
+2022-11-01,Electricity imported from Iran,45.0, GWh
+2022-11-01,Total Electricity Generation by all Sources,8368.0, GWh
+2022-12-01,Electricity Generation by Coal,1520.9, GWh
+2022-12-01,Electricity Generation by Gas,1273.8, GWh
+2022-12-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2022-12-01,Electricity Generation by Hydel,1720.4, GWh
+2022-12-01,Electricity Generation by Mixed,2.18, GWh
+2022-12-01,Electricity Generation by Nuclear,2284.86, GWh
+2022-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1153.7, GWh
+2022-12-01,Electricity Generation by Residual Fuel Oil (RFO),38.91, GWh
+2022-12-01,Electricity Generation by Solar,69.46, GWh
+2022-12-01,Electricity Generation by Wind,211.57, GWh
+2022-12-01,Electricity Generation by bagasse,101.09, GWh
+2022-12-01,Electricity imported from Iran,39.85, GWh
+2022-12-01,Total Electricity Generation by all Sources,8416.72, GWh
+2023-01-01,Electricity Generation by Coal,2443.77, GWh
+2023-01-01,Electricity Generation by Gas,1145.89, GWh
+2023-01-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-01-01,Electricity Generation by Hydel,800.33, GWh
+2023-01-01,Electricity Generation by Mixed,2.15, GWh
+2023-01-01,Electricity Generation by Nuclear,1875.65, GWh
+2023-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1285.79, GWh
+2023-01-01,Electricity Generation by Residual Fuel Oil (RFO),463.32, GWh
+2023-01-01,Electricity Generation by Solar,72.16, GWh
+2023-01-01,Electricity Generation by Wind,287.21, GWh
+2023-01-01,Electricity Generation by bagasse,101.44, GWh
+2023-01-01,Electricity imported from Iran,37.13, GWh
+2023-01-01,Total Electricity Generation by all Sources,8514.84, GWh
+2023-02-01,Electricity Generation by Coal,1091.14, GWh
+2023-02-01,Electricity Generation by Gas,849.61, GWh
+2023-02-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-02-01,Electricity Generation by Hydel,2052.158, GWh
+2023-02-01,Electricity Generation by Mixed,1.873, GWh
+2023-02-01,Electricity Generation by Nuclear,1883.091, GWh
+2023-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1462.357, GWh
+2023-02-01,Electricity Generation by Residual Fuel Oil (RFO),107.774, GWh
+2023-02-01,Electricity Generation by Solar,82.26, GWh
+2023-02-01,Electricity Generation by Wind,92.202, GWh
+2023-02-01,Electricity Generation by bagasse,100.117, GWh
+2023-02-01,Electricity imported from Iran,32.95, GWh
+2023-02-01,Total Electricity Generation by all Sources,7755.532, GWh
+2023-03-01,Electricity Generation by Coal,1333.514, GWh
+2023-03-01,Electricity Generation by Gas,1107.011, GWh
+2023-03-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-03-01,Electricity Generation by Hydel,2001.612, GWh
+2023-03-01,Electricity Generation by Mixed,3.562, GWh
+2023-03-01,Electricity Generation by Nuclear,2002.007, GWh
+2023-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1784.592, GWh
+2023-03-01,Electricity Generation by Residual Fuel Oil (RFO),40.526, GWh
+2023-03-01,Electricity Generation by Solar,110.729, GWh
+2023-03-01,Electricity Generation by Wind,221.327, GWh
+2023-03-01,Electricity Generation by bagasse,104.859, GWh
+2023-03-01,Electricity imported from Iran,31.581, GWh
+2023-03-01,Total Electricity Generation by all Sources,8741.32, GWh
+2023-04-01,Electricity Generation by Coal,1818.513, GWh
+2023-04-01,Electricity Generation by Gas,1189.438, GWh
+2023-04-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-04-01,Electricity Generation by Hydel,1872.236, GWh
+2023-04-01,Electricity Generation by Mixed,13.349, GWh
+2023-04-01,Electricity Generation by Nuclear,1916.067, GWh
+2023-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2417.747, GWh
+2023-04-01,Electricity Generation by Residual Fuel Oil (RFO),222.598, GWh
+2023-04-01,Electricity Generation by Solar,125.798, GWh
+2023-04-01,Electricity Generation by Wind,322.925, GWh
+2023-04-01,Electricity Generation by bagasse,81.168, GWh
+2023-04-01,Electricity imported from Iran,30.459, GWh
+2023-04-01,Total Electricity Generation by all Sources,10010.298, GWh
+2023-05-01,Electricity Generation by Coal,2061.3, GWh
+2023-05-01,Electricity Generation by Gas,1270.9, GWh
+2023-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-05-01,Electricity Generation by Hydel,3312.2, GWh
+2023-05-01,Electricity Generation by Mixed,27.66, GWh
+2023-05-01,Electricity Generation by Nuclear,1542.59, GWh
+2023-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2988.05, GWh
+2023-05-01,Electricity Generation by Residual Fuel Oil (RFO),240.97, GWh
+2023-05-01,Electricity Generation by Solar,124.06, GWh
+2023-05-01,Electricity Generation by Wind,606.58, GWh
+2023-05-01,Electricity Generation by bagasse,74.87, GWh
+2023-05-01,Electricity imported from Iran,34.5, GWh
+2023-05-01,Total Electricity Generation by all Sources,12283.68, GWh
+2023-06-01,Electricity Generation by Coal,2434.43, GWh
+2023-06-01,Electricity Generation by Gas,1170.93, GWh
+2023-06-01,Electricity Generation by High Speed Diesel (HSD),10.24, GWh
+2023-06-01,Electricity Generation by Hydel,4133.45, GWh
+2023-06-01,Electricity Generation by Mixed,27.07, GWh
+2023-06-01,Electricity Generation by Nuclear,1857.11, GWh
+2023-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2543.86, GWh
+2023-06-01,Electricity Generation by Residual Fuel Oil (RFO),744.42, GWh
+2023-06-01,Electricity Generation by Solar,105.06, GWh
+2023-06-01,Electricity Generation by Wind,597.44, GWh
+2023-06-01,Electricity Generation by bagasse,66.49, GWh
+2023-06-01,Electricity imported from Iran,24.98, GWh
+2023-06-01,Total Electricity Generation by all Sources,13715.48, GWh
+2023-07-01,Electricity Generation by Coal,2179.89, GWh
+2023-07-01,Electricity Generation by Gas,1128.72, GWh
+2023-07-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-07-01,Electricity Generation by Hydel,5517.77, GWh
+2023-07-01,Electricity Generation by Mixed,0.0, GWh
+2023-07-01,Electricity Generation by Nuclear,2106.93, GWh
+2023-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2918.09, GWh
+2023-07-01,Electricity Generation by Residual Fuel Oil (RFO),294.55, GWh
+2023-07-01,Electricity Generation by Solar,75.19, GWh
+2023-07-01,Electricity Generation by Wind,548.76, GWh
+2023-07-01,Electricity Generation by bagasse,39.97, GWh
+2023-07-01,Electricity imported from Iran,28.85, GWh
+2023-07-01,Total Electricity Generation by all Sources,14838.72, GWh
+2023-08-01,Electricity Generation by Coal,2357.23, GWh
+2023-08-01,Electricity Generation by Gas,1213.61, GWh
+2023-08-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-08-01,Electricity Generation by Hydel,6005.5, GWh
+2023-08-01,Electricity Generation by Mixed,0.0, GWh
+2023-08-01,Electricity Generation by Nuclear,2040.45, GWh
+2023-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2740.59, GWh
+2023-08-01,Electricity Generation by Residual Fuel Oil (RFO),649.164, GWh
+2023-08-01,Electricity Generation by Solar,84.071, GWh
+2023-08-01,Electricity Generation by Wind,804.706, GWh
+2023-08-01,Electricity Generation by bagasse,37.756, GWh
+2023-08-01,Electricity imported from Iran,26.199, GWh
+2023-08-01,Total Electricity Generation by all Sources,15959.27, GWh
+2023-09-01,Electricity Generation by Coal,2122.866, GWh
+2023-09-01,Electricity Generation by Gas,1005.294, GWh
+2023-09-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-09-01,Electricity Generation by Hydel,5008.516, GWh
+2023-09-01,Electricity Generation by Mixed,0.0, GWh
+2023-09-01,Electricity Generation by Nuclear,2286.35, GWh
+2023-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2127.804, GWh
+2023-09-01,Electricity Generation by Residual Fuel Oil (RFO),240.612, GWh
+2023-09-01,Electricity Generation by Solar,78.793, GWh
+2023-09-01,Electricity Generation by Wind,410.229, GWh
+2023-09-01,Electricity Generation by bagasse,34.517, GWh
+2023-09-01,Electricity imported from Iran,24.234, GWh
+2023-09-01,Total Electricity Generation by all Sources,13339.216, GWh
+2023-10-01,Electricity Generation by Coal,1670.17, GWh
+2023-10-01,Electricity Generation by Gas,703.78, GWh
+2023-10-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-10-01,Electricity Generation by Hydel,3114.14, GWh
+2023-10-01,Electricity Generation by Mixed,0.0, GWh
+2023-10-01,Electricity Generation by Nuclear,1826.26, GWh
+2023-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1938.71, GWh
+2023-10-01,Electricity Generation by Residual Fuel Oil (RFO),-1.227, GWh
+2023-10-01,Electricity Generation by Solar,75.999, GWh
+2023-10-01,Electricity Generation by Wind,191.141, GWh
+2023-10-01,Electricity Generation by bagasse,28.764, GWh
+2023-10-01,Electricity imported from Iran,22.539, GWh
+2023-10-01,Total Electricity Generation by all Sources,9570.28, GWh
+2023-11-01,Electricity Generation by Coal,1473.117, GWh
+2023-11-01,Electricity Generation by Gas,694.775, GWh
+2023-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-11-01,Electricity Generation by Hydel,2754.862, GWh
+2023-11-01,Electricity Generation by Mixed,0.0, GWh
+2023-11-01,Electricity Generation by Nuclear,1571.661, GWh
+2023-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),797.993, GWh
+2023-11-01,Electricity Generation by Residual Fuel Oil (RFO),0.276, GWh
+2023-11-01,Electricity Generation by Solar,49.782, GWh
+2023-11-01,Electricity Generation by Wind,147.839, GWh
+2023-11-01,Electricity Generation by bagasse,26.677, GWh
+2023-11-01,Electricity imported from Iran,29.735, GWh
+2023-11-01,Total Electricity Generation by all Sources,7546.72, GWh
+2023-12-01,Electricity Generation by Coal,1520.927, GWh
+2023-12-01,Electricity Generation by Gas,1273.796, GWh
+2023-12-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2023-12-01,Electricity Generation by Hydel,1720.429, GWh
+2023-12-01,Electricity Generation by Mixed,2.179, GWh
+2023-12-01,Electricity Generation by Nuclear,2284.862, GWh
+2023-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1153.73, GWh
+2023-12-01,Electricity Generation by Residual Fuel Oil (RFO),38.913, GWh
+2023-12-01,Electricity Generation by Solar,69.46, GWh
+2023-12-01,Electricity Generation by Wind,211.572, GWh
+2023-12-01,Electricity Generation by bagasse,101.087, GWh
+2023-12-01,Electricity imported from Iran,39.853, GWh
+2023-12-01,Total Electricity Generation by all Sources,8416.807, GWh
+2024-01-01,Electricity Generation by Coal,1948.933, GWh
+2024-01-01,Electricity Generation by Gas,1035.368, GWh
+2024-01-01,Electricity Generation by High Speed Diesel (HSD),101.674, GWh
+2024-01-01,Electricity Generation by Hydel,924.215, GWh
+2024-01-01,Electricity Generation by Mixed,0.0, GWh
+2024-01-01,Electricity Generation by Nuclear,1727.801, GWh
+2024-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1514.375, GWh
+2024-01-01,Electricity Generation by Residual Fuel Oil (RFO),750.423, GWh
+2024-01-01,Electricity Generation by Solar,47.936, GWh
+2024-01-01,Electricity Generation by Wind,127.553, GWh
+2024-01-01,Electricity Generation by bagasse,106.368, GWh
+2024-01-01,Electricity imported from Iran,29.086, GWh
+2024-01-01,Total Electricity Generation by all Sources,8313.733, GWh
+2024-02-01,Electricity Generation by Coal,1128.704, GWh
+2024-02-01,Electricity Generation by Gas,787.007, GWh
+2024-02-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-02-01,Electricity Generation by Hydel,1766.293, GWh
+2024-02-01,Electricity Generation by Mixed,0.0, GWh
+2024-02-01,Electricity Generation by Nuclear,1660.245, GWh
+2024-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1449.609, GWh
+2024-02-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2024-02-01,Electricity Generation by Solar,90.173, GWh
+2024-02-01,Electricity Generation by Wind,107.828, GWh
+2024-02-01,Electricity Generation by bagasse,100.532, GWh
+2024-02-01,Electricity imported from Iran,25.657, GWh
+2024-02-01,Total Electricity Generation by all Sources,7116.046, GWh
+2024-03-01,Electricity Generation by Coal,861.773, GWh
+2024-03-01,Electricity Generation by Gas,795.076, GWh
+2024-03-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-03-01,Electricity Generation by Hydel,2216.808, GWh
+2024-03-01,Electricity Generation by Mixed,0.0, GWh
+2024-03-01,Electricity Generation by Nuclear,2069.6, GWh
+2024-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1658.442, GWh
+2024-03-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2024-03-01,Electricity Generation by Solar,109.984, GWh
+2024-03-01,Electricity Generation by Wind,204.7, GWh
+2024-03-01,Electricity Generation by bagasse,78.5, GWh
+2024-03-01,Electricity imported from Iran,28.377, GWh
+2024-03-01,Total Electricity Generation by all Sources,8023.26, GWh
+2024-04-01,Electricity Generation by Coal,901.733, GWh
+2024-04-01,Electricity Generation by Gas,974.751, GWh
+2024-04-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-04-01,Electricity Generation by Hydel,2070.347, GWh
+2024-04-01,Electricity Generation by Mixed,0.0, GWh
+2024-04-01,Electricity Generation by Nuclear,2042.656, GWh
+2024-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2157.171, GWh
+2024-04-01,Electricity Generation by Residual Fuel Oil (RFO),0.005, GWh
+2024-04-01,Electricity Generation by Solar,112.747, GWh
+2024-04-01,Electricity Generation by Wind,286.976, GWh
+2024-04-01,Electricity Generation by bagasse,55.85, GWh
+2024-04-01,Electricity imported from Iran,37.094, GWh
+2024-04-01,Total Electricity Generation by all Sources,8639.33, GWh
+2024-05-01,Electricity Generation by Coal,1754.268, GWh
+2024-05-01,Electricity Generation by Gas,1109.681, GWh
+2024-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-05-01,Electricity Generation by Hydel,3906.273, GWh
+2024-05-01,Electricity Generation by Mixed,0.0, GWh
+2024-05-01,Electricity Generation by Nuclear,2360.023, GWh
+2024-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2747.549, GWh
+2024-05-01,Electricity Generation by Residual Fuel Oil (RFO),61.942, GWh
+2024-05-01,Electricity Generation by Solar,124.874, GWh
+2024-05-01,Electricity Generation by Wind,445.438, GWh
+2024-05-01,Electricity Generation by bagasse,56.942, GWh
+2024-05-01,Electricity imported from Iran,49.961644, GWh
+2024-05-01,Total Electricity Generation by all Sources,12616.953, GWh
+2024-06-01,Electricity Generation by Coal,2126.0618, GWh
+2024-06-01,Electricity Generation by Gas,1165.870809, GWh
+2024-06-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-06-01,Electricity Generation by Hydel,4728.500466, GWh
+2024-06-01,Electricity Generation by Mixed,0.0, GWh
+2024-06-01,Electricity Generation by Nuclear,1998.393, GWh
+2024-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2436.7609, GWh
+2024-06-01,Electricity Generation by Residual Fuel Oil (RFO),262.962957, GWh
+2024-06-01,Electricity Generation by Solar,117.541684, GWh
+2024-06-01,Electricity Generation by Wind,515.731984, GWh
+2024-06-01,Electricity Generation by bagasse,59.738077, GWh
+2024-06-01,Electricity imported from Iran,47.645034, GWh
+2024-06-01,Total Electricity Generation by all Sources,13459.20671, GWh
+2024-07-01,Electricity Generation by Coal,2642.83, GWh
+2024-07-01,Electricity Generation by Gas,1180.1, GWh
+2024-07-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-07-01,Electricity Generation by Hydel,5341.22, GWh
+2024-07-01,Electricity Generation by Mixed,0.0, GWh
+2024-07-01,Electricity Generation by Nuclear,1987.72, GWh
+2024-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2969.74, GWh
+2024-07-01,Electricity Generation by Residual Fuel Oil (RFO),102.1, GWh
+2024-07-01,Electricity Generation by Solar,110.49, GWh
+2024-07-01,Electricity Generation by Wind,445.01, GWh
+2024-07-01,Electricity Generation by bagasse,53.37, GWh
+2024-07-01,Electricity imported from Iran,47.76, GWh
+2024-07-01,Total Electricity Generation by all Sources,14880.34, GWh
+2024-08-01,Electricity Generation by Coal,1986.35, GWh
+2024-08-01,Electricity Generation by Gas,950.21, GWh
+2024-08-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-08-01,Electricity Generation by Hydel,5361.56, GWh
+2024-08-01,Electricity Generation by Mixed,0.0, GWh
+2024-08-01,Electricity Generation by Nuclear,2190.31, GWh
+2024-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2105.69, GWh
+2024-08-01,Electricity Generation by Residual Fuel Oil (RFO),5.66, GWh
+2024-08-01,Electricity Generation by Solar,98.37, GWh
+2024-08-01,Electricity Generation by Wind,398.25, GWh
+2024-08-01,Electricity Generation by bagasse,46.71, GWh
+2024-08-01,Electricity imported from Iran,35.77, GWh
+2024-08-01,Total Electricity Generation by all Sources,13178.9, GWh
+2024-09-01,Electricity Generation by Coal,2410.12, GWh
+2024-09-01,Electricity Generation by Gas,988.1, GWh
+2024-09-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-09-01,Electricity Generation by Hydel,4837.98, GWh
+2024-09-01,Electricity Generation by Mixed,0.0, GWh
+2024-09-01,Electricity Generation by Nuclear,1595.67, GWh
+2024-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2039.26, GWh
+2024-09-01,Electricity Generation by Residual Fuel Oil (RFO),39.19, GWh
+2024-09-01,Electricity Generation by Solar,104.93, GWh
+2024-09-01,Electricity Generation by Wind,395.45, GWh
+2024-09-01,Electricity Generation by bagasse,35.6, GWh
+2024-09-01,Electricity imported from Iran,40.3, GWh
+2024-09-01,Total Electricity Generation by all Sources,12486.59, GWh
+2024-10-01,Electricity Generation by Coal,2420.79, GWh
+2024-10-01,Electricity Generation by Gas,825.94, GWh
+2024-10-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-10-01,Electricity Generation by Hydel,3187.39, GWh
+2024-10-01,Electricity Generation by Mixed,0.0, GWh
+2024-10-01,Electricity Generation by Nuclear,1441.94, GWh
+2024-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2002.62, GWh
+2024-10-01,Electricity Generation by Residual Fuel Oil (RFO),2.0, GWh
+2024-10-01,Electricity Generation by Solar,99.07, GWh
+2024-10-01,Electricity Generation by Wind,189.98, GWh
+2024-10-01,Electricity Generation by bagasse,50.26, GWh
+2024-10-01,Electricity imported from Iran,42.38, GWh
+2024-10-01,Total Electricity Generation by all Sources,10262.37, GWh
+2024-11-01,Electricity Generation by Coal,1495.647, GWh
+2024-11-01,Electricity Generation by Gas,858.024, GWh
+2024-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-11-01,Electricity Generation by Hydel,2859.994, GWh
+2024-11-01,Electricity Generation by Mixed,0.0, GWh
+2024-11-01,Electricity Generation by Nuclear,1655.204, GWh
+2024-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),906.61, GWh
+2024-11-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2024-11-01,Electricity Generation by Solar,69.084, GWh
+2024-11-01,Electricity Generation by Wind,98.003, GWh
+2024-11-01,Electricity Generation by bagasse,52.226, GWh
+2024-11-01,Electricity imported from Iran,36.803, GWh
+2024-11-01,Total Electricity Generation by all Sources,8031.5, GWh
+2024-12-01,Electricity Generation by Coal,907.91, GWh
+2024-12-01,Electricity Generation by Gas,959.82, GWh
+2024-12-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2024-12-01,Electricity Generation by Hydel,1778.28, GWh
+2024-12-01,Electricity Generation by Mixed,0.0, GWh
+2024-12-01,Electricity Generation by Nuclear,2065.1, GWh
+2024-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1614.68, GWh
+2024-12-01,Electricity Generation by Residual Fuel Oil (RFO),2.64, GWh
+2024-12-01,Electricity Generation by Solar,75.82, GWh
+2024-12-01,Electricity Generation by Wind,261.62, GWh
+2024-12-01,Electricity Generation by bagasse,101.07, GWh
+2024-12-01,Electricity imported from Iran,32.76, GWh
+2024-12-01,Total Electricity Generation by all Sources,7799.69, GWh
+2025-01-01,Electricity Generation by Coal,1964.12, GWh
+2025-01-01,Electricity Generation by Gas,1069.05, GWh
+2025-01-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-01-01,Electricity Generation by Hydel,866.39, GWh
+2025-01-01,Electricity Generation by Mixed,0.0, GWh
+2025-01-01,Electricity Generation by Nuclear,2169.37, GWh
+2025-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1542.29, GWh
+2025-01-01,Electricity Generation by Residual Fuel Oil (RFO),109.12, GWh
+2025-01-01,Electricity Generation by Solar,86.02, GWh
+2025-01-01,Electricity Generation by Wind,218.04, GWh
+2025-01-01,Electricity Generation by bagasse,95.3, GWh
+2025-01-01,Electricity imported from Iran,33.59, GWh
+2025-01-01,Total Electricity Generation by all Sources,8153.28, GWh
+2025-02-01,Electricity Generation by Coal,1151.56, GWh
+2025-02-01,Electricity Generation by Gas,716.49, GWh
+2025-02-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-02-01,Electricity Generation by Hydel,1871.87, GWh
+2025-02-01,Electricity Generation by Mixed,0.0, GWh
+2025-02-01,Electricity Generation by Nuclear,1846.94, GWh
+2025-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),980.25, GWh
+2025-02-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2025-02-01,Electricity Generation by Solar,84.71, GWh
+2025-02-01,Electricity Generation by Wind,173.54, GWh
+2025-02-01,Electricity Generation by bagasse,78.88, GWh
+2025-02-01,Electricity imported from Iran,29.63, GWh
+2025-02-01,Total Electricity Generation by all Sources,6933.87, GWh
+2025-03-01,Electricity Generation by Coal,1937.94, GWh
+2025-03-01,Electricity Generation by Gas,978.55, GWh
+2025-03-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-03-01,Electricity Generation by Hydel,1296.77, GWh
+2025-03-01,Electricity Generation by Mixed,0.0, GWh
+2025-03-01,Electricity Generation by Nuclear,2222.79, GWh
+2025-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1528.1, GWh
+2025-03-01,Electricity Generation by Residual Fuel Oil (RFO),3.62, GWh
+2025-03-01,Electricity Generation by Solar,119.94, GWh
+2025-03-01,Electricity Generation by Wind,230.5, GWh
+2025-03-01,Electricity Generation by bagasse,51.38, GWh
+2025-03-01,Electricity imported from Iran,39.28, GWh
+2025-03-01,Total Electricity Generation by all Sources,8408.92, GWh
+2025-04-01,Electricity Generation by Coal,2578.91, GWh
+2025-04-01,Electricity Generation by Gas,841.84, GWh
+2025-04-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-04-01,Electricity Generation by Hydel,2306.43, GWh
+2025-04-01,Electricity Generation by Mixed,0.0, GWh
+2025-04-01,Electricity Generation by Nuclear,1882.43, GWh
+2025-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2157.02, GWh
+2025-04-01,Electricity Generation by Residual Fuel Oil (RFO),83.46, GWh
+2025-04-01,Electricity Generation by Solar,115.38, GWh
+2025-04-01,Electricity Generation by Wind,478.38, GWh
+2025-04-01,Electricity Generation by bagasse,36.91, GWh
+2025-04-01,Electricity imported from Iran,32.46, GWh
+2025-04-01,Total Electricity Generation by all Sources,10513.22, GWh
+2025-05-01,Electricity Generation by Coal,2209.67, GWh
+2025-05-01,Electricity Generation by Gas,883.18, GWh
+2025-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-05-01,Electricity Generation by Hydel,4843.86, GWh
+2025-05-01,Electricity Generation by Mixed,0.0, GWh
+2025-05-01,Electricity Generation by Nuclear,2011.78, GWh
+2025-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2167.5, GWh
+2025-05-01,Electricity Generation by Residual Fuel Oil (RFO),20.08, GWh
+2025-05-01,Electricity Generation by Solar,116.02, GWh
+2025-05-01,Electricity Generation by Wind,432.58, GWh
+2025-05-01,Electricity Generation by bagasse,33.75, GWh
+2025-05-01,Electricity imported from Iran,36.19, GWh
+2025-05-01,Total Electricity Generation by all Sources,12754.61, GWh
+2025-06-01,Electricity Generation by Coal,2906.82, GWh
+2025-06-01,Electricity Generation by Gas,968.05, GWh
+2025-06-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-06-01,Electricity Generation by Hydel,5409.73, GWh
+2025-06-01,Electricity Generation by Mixed,0.0, GWh
+2025-06-01,Electricity Generation by Nuclear,1382.84, GWh
+2025-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2215.71, GWh
+2025-06-01,Electricity Generation by Residual Fuel Oil (RFO),151.08, GWh
+2025-06-01,Electricity Generation by Solar,106.24, GWh
+2025-06-01,Electricity Generation by Wind,522.02, GWh
+2025-06-01,Electricity Generation by bagasse,34.96, GWh
+2025-06-01,Electricity imported from Iran,46.99, GWh
+2025-06-01,Total Electricity Generation by all Sources,13744.43, GWh
+2025-07-01,Electricity Generation by Coal,2642.11, GWh
+2025-07-01,Electricity Generation by Gas,1092.65, GWh
+2025-07-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-07-01,Electricity Generation by Hydel,5668.14, GWh
+2025-07-01,Electricity Generation by Mixed,0.0, GWh
+2025-07-01,Electricity Generation by Nuclear,1405.45, GWh
+2025-07-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2438.21, GWh
+2025-07-01,Electricity Generation by Residual Fuel Oil (RFO),108.41, GWh
+2025-07-01,Electricity Generation by Solar,104.98, GWh
+2025-07-01,Electricity Generation by Wind,591.92, GWh
+2025-07-01,Electricity Generation by bagasse,35.25, GWh
+2025-07-01,Electricity imported from Iran,35.99, GWh
+2025-07-01,Total Electricity Generation by all Sources,14123.13, GWh
+2025-08-01,Electricity Generation by Coal,2580.0177, GWh
+2025-08-01,Electricity Generation by Gas,1035.056619, GWh
+2025-08-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-08-01,Electricity Generation by Hydel,5517.345457, GWh
+2025-08-01,Electricity Generation by Mixed,0.0, GWh
+2025-08-01,Electricity Generation by Nuclear,2145.255, GWh
+2025-08-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2179.667597, GWh
+2025-08-01,Electricity Generation by Residual Fuel Oil (RFO),91.892174, GWh
+2025-08-01,Electricity Generation by Solar,103.995637, GWh
+2025-08-01,Electricity Generation by Wind,512.182799, GWh
+2025-08-01,Electricity Generation by bagasse,35.561383, GWh
+2025-08-01,Electricity imported from Iran,17.366247, GWh
+2025-08-01,Total Electricity Generation by all Sources,14218.34061, GWh
+2025-09-01,Electricity Generation by Coal,2221.15945, GWh
+2025-09-01,Electricity Generation by Gas,940.84304, GWh
+2025-09-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-09-01,Electricity Generation by Hydel,4783.282056, GWh
+2025-09-01,Electricity Generation by Mixed,0.0, GWh
+2025-09-01,Electricity Generation by Nuclear,2227.359, GWh
+2025-09-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1814.67067, GWh
+2025-09-01,Electricity Generation by Residual Fuel Oil (RFO),97.401752, GWh
+2025-09-01,Electricity Generation by Solar,107.809106, GWh
+2025-09-01,Electricity Generation by Wind,341.649864, GWh
+2025-09-01,Electricity Generation by bagasse,34.060297, GWh
+2025-09-01,Electricity imported from Iran,23.795675, GWh
+2025-09-01,Total Electricity Generation by all Sources,12592.03091, GWh
+2025-10-01,Electricity Generation by Coal,1726.64, GWh
+2025-10-01,Electricity Generation by Gas,905.41, GWh
+2025-10-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-10-01,Electricity Generation by Hydel,2704.72, GWh
+2025-10-01,Electricity Generation by Mixed,0.0, GWh
+2025-10-01,Electricity Generation by Nuclear,2187.85, GWh
+2025-10-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1949.02, GWh
+2025-10-01,Electricity Generation by Residual Fuel Oil (RFO),47.54, GWh
+2025-10-01,Electricity Generation by Solar,96.28, GWh
+2025-10-01,Electricity Generation by Wind,185.2, GWh
+2025-10-01,Electricity Generation by bagasse,39.87, GWh
+2025-10-01,Electricity imported from Iran,43.26, GWh
+2025-10-01,Total Electricity Generation by all Sources,9885.78, GWh
+2025-11-01,Electricity Generation by Coal,1159.2196, GWh
+2025-11-01,Electricity Generation by Gas,679.801926, GWh
+2025-11-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-11-01,Electricity Generation by Hydel,3152.632784, GWh
+2025-11-01,Electricity Generation by Mixed,0.0, GWh
+2025-11-01,Electricity Generation by Nuclear,2030.922, GWh
+2025-11-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),695.896472, GWh
+2025-11-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2025-11-01,Electricity Generation by Solar,86.079402, GWh
+2025-11-01,Electricity Generation by Wind,135.628796, GWh
+2025-11-01,Electricity Generation by bagasse,75.379809, GWh
+2025-11-01,Electricity imported from Iran,34.64777, GWh
+2025-11-01,Total Electricity Generation by all Sources,8050.208559, GWh
+2025-12-01,Electricity Generation by Coal,2047.08823, GWh
+2025-12-01,Electricity Generation by Gas,950.782818, GWh
+2025-12-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2025-12-01,Electricity Generation by Hydel,1534.031282, GWh
+2025-12-01,Electricity Generation by Mixed,0.0, GWh
+2025-12-01,Electricity Generation by Nuclear,2125.797, GWh
+2025-12-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1463.51437, GWh
+2025-12-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2025-12-01,Electricity Generation by Solar,73.604745, GWh
+2025-12-01,Electricity Generation by Wind,162.248489, GWh
+2025-12-01,Electricity Generation by bagasse,97.028764, GWh
+2025-12-01,Electricity imported from Iran,32.947644, GWh
+2025-12-01,Total Electricity Generation by all Sources,8487.043342, GWh
+2026-01-01,Electricity Generation by Coal,2983.249, GWh
+2026-01-01,Electricity Generation by Gas,1117.458, GWh
+2026-01-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2026-01-01,Electricity Generation by Hydel,713.271, GWh
+2026-01-01,Electricity Generation by Mixed,0.0, GWh
+2026-01-01,Electricity Generation by Nuclear,1598.833, GWh
+2026-01-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),2001.943, GWh
+2026-01-01,Electricity Generation by Residual Fuel Oil (RFO),274.201, GWh
+2026-01-01,Electricity Generation by Solar,73.633, GWh
+2026-01-01,Electricity Generation by Wind,241.319, GWh
+2026-01-01,Electricity Generation by bagasse,101.54, GWh
+2026-01-01,Electricity imported from Iran,34.799828, GWh
+2026-01-01,Total Electricity Generation by all Sources,9140.246828, GWh
+2026-02-01,Electricity Generation by Coal,2381.0, GWh
+2026-02-01,Electricity Generation by Gas,886.64, GWh
+2026-02-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2026-02-01,Electricity Generation by Hydel,1782.52, GWh
+2026-02-01,Electricity Generation by Mixed,0.0, GWh
+2026-02-01,Electricity Generation by Nuclear,1448.96, GWh
+2026-02-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),728.64, GWh
+2026-02-01,Electricity Generation by Residual Fuel Oil (RFO),0.0, GWh
+2026-02-01,Electricity Generation by Solar,91.71, GWh
+2026-02-01,Electricity Generation by Wind,250.56, GWh
+2026-02-01,Electricity Generation by bagasse,90.95, GWh
+2026-02-01,Electricity imported from Iran,34.76, GWh
+2026-02-01,Total Electricity Generation by all Sources,7695.74, GWh
+2026-03-01,Electricity Generation by Coal,2731.97973, GWh
+2026-03-01,Electricity Generation by Gas,1013.539961, GWh
+2026-03-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2026-03-01,Electricity Generation by Hydel,2105.17734, GWh
+2026-03-01,Electricity Generation by Mixed,0.0, GWh
+2026-03-01,Electricity Generation by Nuclear,1962.29, GWh
+2026-03-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),503.998938, GWh
+2026-03-01,Electricity Generation by Residual Fuel Oil (RFO),90.97215, GWh
+2026-03-01,Electricity Generation by Solar,105.627278, GWh
+2026-03-01,Electricity Generation by Wind,308.972536, GWh
+2026-03-01,Electricity Generation by bagasse,77.437011, GWh
+2026-03-01,Electricity imported from Iran,39.28394, GWh
+2026-03-01,Total Electricity Generation by all Sources,8939.278884, GWh
+2026-04-01,Electricity Generation by Coal,2825.28, GWh
+2026-04-01,Electricity Generation by Gas,968.12, GWh
+2026-04-01,Electricity Generation by High Speed Diesel (HSD),46.85, GWh
+2026-04-01,Electricity Generation by Hydel,2078.94, GWh
+2026-04-01,Electricity Generation by Mixed,0.0, GWh
+2026-04-01,Electricity Generation by Nuclear,2096.83, GWh
+2026-04-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),380.21, GWh
+2026-04-01,Electricity Generation by Residual Fuel Oil (RFO),485.84, GWh
+2026-04-01,Electricity Generation by Solar,111.43, GWh
+2026-04-01,Electricity Generation by Wind,409.1, GWh
+2026-04-01,Electricity Generation by bagasse,63.81, GWh
+2026-04-01,Electricity imported from Iran,32.46, GWh
+2026-04-01,Total Electricity Generation by all Sources,9498.86, GWh
+2026-05-01,Electricity Generation by Coal,3185.5, GWh
+2026-05-01,Electricity Generation by Gas,1049.6, GWh
+2026-05-01,Electricity Generation by High Speed Diesel (HSD),0.0, GWh
+2026-05-01,Electricity Generation by Hydel,4204.99, GWh
+2026-05-01,Electricity Generation by Mixed,0.0, GWh
+2026-05-01,Electricity Generation by Nuclear,1801.33, GWh
+2026-05-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1492.99, GWh
+2026-05-01,Electricity Generation by Residual Fuel Oil (RFO),20.11, GWh
+2026-05-01,Electricity Generation by Solar,119.13, GWh
+2026-05-01,Electricity Generation by Wind,665.16, GWh
+2026-05-01,Electricity Generation by bagasse,63.13, GWh
+2026-05-01,Electricity imported from Iran,36.19, GWh
+2026-05-01,Total Electricity Generation by all Sources,12638.13, GWh
+2026-06-01,Electricity Generation by Coal,3057.54, GWh
+2026-06-01,Electricity Generation by Gas,866.69, GWh
+2026-06-01,Electricity Generation by High Speed Diesel (HSD),5.47, GWh
+2026-06-01,Electricity Generation by Hydel,5241.8, GWh
+2026-06-01,Electricity Generation by Mixed,0.0, GWh
+2026-06-01,Electricity Generation by Nuclear,1800.26, GWh
+2026-06-01,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),1479.82, GWh
+2026-06-01,Electricity Generation by Residual Fuel Oil (RFO),99.95, GWh
+2026-06-01,Electricity Generation by Solar,110.41, GWh
+2026-06-01,Electricity Generation by Wind,675.95, GWh
+2026-06-01,Electricity Generation by bagasse,46.35, GWh
+2026-06-01,Electricity imported from Iran,46.99, GWh
+2026-06-01,Total Electricity Generation by all Sources,13431.22, GWh
