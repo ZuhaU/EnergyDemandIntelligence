@@ -1,0 +1,69 @@
+2026-08-16 20:13:55,894 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 20:13:55,895 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 20:13:56,514 | INFO | COMPLETED: Transform Raw \u2192 Silver
+2026-08-16 20:13:56,514 | INFO | STARTED: Validate Silver Data
+2026-08-16 20:13:57,151 | INFO | COMPLETED: Validate Silver Data
+2026-08-16 20:13:57,164 | INFO | DATA CLEANING | Original rows: 2039 | Clean rows: 2038 | Removed: 1
+2026-08-16 20:13:57,164 | INFO | STARTED: Create Monthly Gold
+2026-08-16 20:13:57,708 | INFO | COMPLETED: Create Monthly Gold
+2026-08-16 20:13:57,708 | INFO | STARTED: Create Source Gold
+2026-08-16 20:13:58,363 | INFO | COMPLETED: Create Source Gold
+2026-08-16 20:13:58,363 | INFO | STARTED: Generate Energy Forecast
+2026-08-16 20:13:58,934 | ERROR | FAILED: Generate Energy Forecast
+2026-08-16 20:15:44,395 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 20:15:44,395 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 20:15:45,139 | INFO | COMPLETED: Transform Raw \u2192 Silver
+2026-08-16 20:15:45,140 | INFO | STARTED: Validate Silver Data
+2026-08-16 20:15:45,712 | INFO | COMPLETED: Validate Silver Data
+2026-08-16 20:15:45,731 | INFO | DATA CLEANING | Original rows: 2039 | Clean rows: 2038 | Removed: 1
+2026-08-16 20:15:45,732 | INFO | STARTED: Create Monthly Gold
+2026-08-16 20:15:46,353 | INFO | COMPLETED: Create Monthly Gold
+2026-08-16 20:15:46,354 | INFO | STARTED: Create Source Gold
+2026-08-16 20:15:47,009 | INFO | COMPLETED: Create Source Gold
+2026-08-16 20:15:47,010 | INFO | STARTED: Generate Energy Forecast
+2026-08-16 20:16:39,886 | ERROR | FAILED: Generate Energy Forecast
+2026-08-16 20:16:40,488 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 20:16:40,488 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 20:16:41,078 | INFO | COMPLETED: Transform Raw \u2192 Silver
+2026-08-16 20:16:41,078 | INFO | STARTED: Validate Silver Data
+2026-08-16 20:16:41,697 | INFO | COMPLETED: Validate Silver Data
+2026-08-16 20:16:41,709 | INFO | DATA CLEANING | Original rows: 2039 | Clean rows: 2038 | Removed: 1
+2026-08-16 20:16:41,709 | INFO | STARTED: Create Monthly Gold
+2026-08-16 20:16:42,254 | INFO | COMPLETED: Create Monthly Gold
+2026-08-16 20:16:42,254 | INFO | STARTED: Create Source Gold
+2026-08-16 20:16:42,881 | INFO | COMPLETED: Create Source Gold
+2026-08-16 20:16:42,882 | INFO | STARTED: Generate Energy Forecast
+2026-08-16 20:16:44,139 | ERROR | FAILED: Generate Energy Forecast
+2026-08-16 20:17:17,117 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 20:17:17,117 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 20:17:17,760 | INFO | COMPLETED: Transform Raw \u2192 Silver
+2026-08-16 20:17:17,761 | INFO | STARTED: Validate Silver Data
+2026-08-16 20:17:18,311 | INFO | COMPLETED: Validate Silver Data
+2026-08-16 20:17:18,327 | INFO | DATA CLEANING | Original rows: 2039 | Clean rows: 2038 | Removed: 1
+2026-08-16 20:17:18,327 | INFO | STARTED: Create Monthly Gold
+2026-08-16 20:17:18,952 | INFO | COMPLETED: Create Monthly Gold
+2026-08-16 20:17:18,953 | INFO | STARTED: Create Source Gold
+2026-08-16 20:17:19,550 | INFO | COMPLETED: Create Source Gold
+2026-08-16 20:17:19,550 | INFO | STARTED: Generate Energy Forecast
+2026-08-16 20:17:30,500 | INFO | COMPLETED: Generate Energy Forecast
+2026-08-16 20:17:30,500 | INFO | ========== PIPELINE COMPLETED SUCCESSFULLY ==========
+2026-08-16 21:26:08,280 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 21:26:08,281 | INFO | STARTED: Download Latest SBP Electricity Data
+2026-08-16 21:26:17,829 | INFO | COMPLETED: Download Latest SBP Electricity Data
+2026-08-16 21:26:17,830 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 21:26:18,611 | ERROR | FAILED: Transform Raw \u2192 Silver
+2026-08-16 21:32:03,431 | INFO | ========== PIPELINE STARTED ==========
+2026-08-16 21:32:03,432 | INFO | STARTED: Download Latest SBP Electricity Data
+2026-08-16 21:32:12,856 | INFO | COMPLETED: Download Latest SBP Electricity Data
+2026-08-16 21:32:12,857 | INFO | STARTED: Transform Raw \u2192 Silver
+2026-08-16 21:32:13,589 | INFO | COMPLETED: Transform Raw \u2192 Silver
+2026-08-16 21:32:13,590 | INFO | STARTED: Validate Silver Data
+2026-08-16 21:32:14,285 | INFO | COMPLETED: Validate Silver Data
+2026-08-16 21:32:14,307 | INFO | DATA CLEANING | Original rows: 2039 | Clean rows: 2038 | Removed: 1
+2026-08-16 21:32:14,307 | INFO | STARTED: Create Monthly Gold
+2026-08-16 21:32:15,096 | INFO | COMPLETED: Create Monthly Gold
+2026-08-16 21:32:15,096 | INFO | STARTED: Create Source Gold
+2026-08-16 21:32:15,759 | INFO | COMPLETED: Create Source Gold
+2026-08-16 21:32:15,759 | INFO | STARTED: Generate Energy Forecast
+2026-08-16 21:32:19,545 | INFO | COMPLETED: Generate Energy Forecast
+2026-08-16 21:32:19,546 | INFO | ========== PIPELINE COMPLETED SUCCESSFULLY ==========

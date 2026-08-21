@@ -90,17 +90,42 @@ def main():
 
     try:
 
+        # --------------------------------------------------
+        # 1. INGESTION
+        # --------------------------------------------------
+
+        run_step(
+            "Download Latest SBP Electricity Data",
+            "src/ingestion/download_data.py"
+        )
+
+        # --------------------------------------------------
+        # 2. TRANSFORMATION
+        # --------------------------------------------------
+
         run_step(
             "Transform Raw → Silver",
             "src/transformation/transform_electricity.py"
         )
+
+        # --------------------------------------------------
+        # 3. VALIDATION
+        # --------------------------------------------------
 
         run_step(
             "Validate Silver Data",
             "src/validation/validate_data.py"
         )
 
+        # --------------------------------------------------
+        # 4. CLEANING
+        # --------------------------------------------------
+
         clean_silver_data()
+
+        # --------------------------------------------------
+        # 5. GOLD TABLES
+        # --------------------------------------------------
 
         run_step(
             "Create Monthly Gold",
@@ -111,12 +136,23 @@ def main():
             "Create Source Gold",
             "src/transformation/create_source_gold.py"
         )
+
+        # --------------------------------------------------
+        # 6. FORECASTING
+        # --------------------------------------------------
+
         run_step(
             "Generate Energy Forecast",
             "src/forecasting/forecast.py"
-    )
+        )
 
-        logger.info("========== PIPELINE COMPLETED SUCCESSFULLY ==========")
+        # --------------------------------------------------
+        # COMPLETE
+        # --------------------------------------------------
+
+        logger.info(
+            "========== PIPELINE COMPLETED SUCCESSFULLY =========="
+        )
 
         print("\n" + "=" * 60)
         print("PIPELINE COMPLETED SUCCESSFULLY")
