@@ -145,6 +145,29 @@ def main():
             "Generate Energy Forecast",
             "src/forecasting/forecast.py"
         )
+        # --------------------------------------------------
+# 7. AZURE UPLOADS
+# --------------------------------------------------
+
+        run_step(
+           "Upload Raw Data to Azure Bronze",
+           "src/azure/upload_to_bronze.py"
+        )
+
+        run_step(
+           "Upload Silver Data to Azure",
+           "src/azure/upload_silver.py"
+        )
+
+        run_step(
+           "Upload Gold Data to Azure",
+           "src/azure/upload_gold.py"
+        )
+
+        run_step(
+            "Upload Source Gold Data to Azure",
+            "src/azure/upload_source_gold.py"
+        )
 
         # --------------------------------------------------
         # COMPLETE

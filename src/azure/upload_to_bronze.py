@@ -1,12 +1,11 @@
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 from azure.storage.filedatalake import DataLakeServiceClient
 
 # Load environment variables
-load_dotenv()
-
-print("Account:", os.getenv("AZURE_STORAGE_ACCOUNT"))
-print("Key exists:", os.getenv("AZURE_STORAGE_KEY") is not None)
+env_path = Path(__file__).resolve().parents[2] / ".env"
+load_dotenv(env_path)
 
 ACCOUNT_NAME = os.getenv("AZURE_STORAGE_ACCOUNT")
 ACCOUNT_KEY = os.getenv("AZURE_STORAGE_KEY")
