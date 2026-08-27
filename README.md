@@ -8,7 +8,7 @@ The project is also being moved toward a fully automated cloud setup using Azure
 
 ⸻
 
-What the project does
+What the Project Does
 
 The pipeline currently handles:
 
@@ -65,7 +65,7 @@ Raw Electricity Data
         └── Intelligence
         │
         ▼
-     Azure
+      Azure
         │
         ▼
     Power BI
@@ -133,13 +133,13 @@ The Intelligence layer takes the results produced by the data and forecasting pi
 
 The Python intelligence engine can identify things such as:
 
-* changes in electricity generation
-* year-over-year changes
-* generation trends
-* changes by generation source
-* unusually high or low values
-* forecast errors
-* forecast underestimation or overestimation
+* Changes in electricity generation
+* Year-over-year changes
+* Generation trends
+* Changes by generation source
+* Unusually high or low values
+* Forecast errors
+* Forecast underestimation or overestimation
 
 The structured findings are stored in:
 
@@ -234,13 +234,13 @@ Power BI is used as the visualization and reporting layer.
 
 The dashboard includes views for:
 
-* total electricity generation
-* generation by source
-* historical trends
-* renewable generation
-* future forecasts
-* forecast performance
-* generated intelligence
+* Total electricity generation
+* Generation by source
+* Historical trends
+* Renewable generation
+* Future forecasts
+* Forecast performance
+* Generated intelligence
 
 The final dashboard will use the data stored in Azure rather than depending on local copies of the CSV files.
 
@@ -257,6 +257,7 @@ PowerGenerationIntelligence/
 │   └── Intelligence/
 │
 ├── src/
+│   │
 │   ├── azure/
 │   │   ├── upload_to_bronze.py
 │   │   ├── upload_silver.py
@@ -315,7 +316,7 @@ Completed
 * Azure Container Apps Job setup
 * Power BI dashboard
 
-Still working on
+Still Working On
 
 * Upload Intelligence output to Azure
 * Connect Intelligence output to Power BI
@@ -331,28 +332,32 @@ Final Goal
 
 The end goal is for the complete project to work like this:
 
-                    Azure
-                      │
-                Scheduled Job
-                      │
-                      ▼
-                Docker Container
-                      │
-                      ▼
-                 pipeline.py
-                      │
-       ┌──────────────┼──────────────┐
-       ▼              ▼              ▼
-   Ingestion      Processing     Forecasting
-       │              │              │
-       └──────────────┼──────────────┘
-                      ▼
-                 Intelligence
-                      │
-                      ▼
-                Azure Data Lake
-                      │
-                      ▼
-                   Power BI
+                         Azure
+                           │
+                    Scheduled Job
+                           │
+                           ▼
+                    Docker Container
+                           │
+                           ▼
+                      pipeline.py
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+        Ingestion      Processing     Forecasting
+            │              │              │
+            └──────────────┼──────────────┘
+                           ▼
+                      Intelligence
+                           │
+                           ▼
+                    Azure Data Lake
+                           │
+                           ▼
+                        Power BI
 
-The goal is to have one scheduled cloud pipeline that can pull the latest data, process it, forecast electricity generation, generate insights, store the results in Azure, and make the updated information available in Power BI.
+The goal is to have one scheduled cloud pipeline that can:
+
+Pull the latest data → process it → forecast electricity generation → generate insights → store the results in Azure → make the updated information available in Power BI.
+
+The final system should require minimal manual intervention once the cloud automation is in place.
