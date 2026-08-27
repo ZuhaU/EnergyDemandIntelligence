@@ -1,0 +1,21 @@
+date,type,category,severity,metric,value,change_pct,z_score,title,ai_explanation
+2026-07-01,Trend,Total Generation,Positive,total_generation_gwh,15121.51,12.584699986523951,,Total generation increased,"The most crucial findings indicate a year-over-year increase in total elect
+electricity generation by 7.07%, demonstrating a positive growth trend. Add
+Additionally, while forecasts generally estimate a mean error of 3.91%, the
+they have previously been noted as underestimating actual generation by 5.3
+5.32%."
+2026-07-01,YoY,Total Generation,Positive,yoy_growth_pct,7.069264489195359,7.069264489195359,,Year-over-year growth detected,"The most crucial findings indicate a year-over-year increase in total elect
+electricity generation by 7.07%, demonstrating a positive growth trend. Add
+Additionally, while forecasts generally estimate a mean error of 3.91%, the
+they have previously been noted as underestimating actual generation by 5.3
+5.32%."
+2026-07-01,Forecast,Forecast Accuracy,Warning,predicted_gwh,14317.125240302004,-5.319473780713671,,Forecast underestimated actual generation,"The most crucial findings indicate a year-over-year increase in total elect
+electricity generation by 7.07%, demonstrating a positive growth trend. Add
+Additionally, while forecasts generally estimate a mean error of 3.91%, the
+they have previously been noted as underestimating actual generation by 5.3
+5.32%."
+2026-07-01,Forecast,Forecast Accuracy,Positive,mae_gwh,422.42847285600595,3.9084066776146584,,Forecast mean error is 3.9% of actual generation,"The most crucial findings indicate a year-over-year increase in total elect
+electricity generation by 7.07%, demonstrating a positive growth trend. Add
+Additionally, while forecasts generally estimate a mean error of 3.91%, the
+they have previously been noted as underestimating actual generation by 5.3
+5.32%."

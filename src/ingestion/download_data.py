@@ -303,7 +303,7 @@ def download_sbp_dataset():
     with sync_playwright() as p:
 
         browser = p.chromium.launch(
-            headless=True
+            headless=False
         )
 
         page = browser.new_page()

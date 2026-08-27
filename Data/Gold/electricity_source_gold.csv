@@ -1702,3 +1702,14 @@ date,year,month,month_name,source,category,generation_gwh,unit
 2026-06-01,2026,6,Jun,Electricity Generation by Solar,Renewable,110.41,GWh
 2026-06-01,2026,6,Jun,Electricity Generation by Wind,Renewable,675.95,GWh
 2026-06-01,2026,6,Jun,Electricity Generation by bagasse,Renewable,46.35,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Coal,Fossil / Other,3818.35,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Gas,Fossil / Other,989.62,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by High Speed Diesel (HSD),Fossil / Other,31.1,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Mixed,Fossil / Other,0.0,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Regasification Liquefied Natural Gas(RLNG),Fossil / Other,1629.34,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Residual Fuel Oil (RFO),Fossil / Other,215.13,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Nuclear,Nuclear,1526.71,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Hydel,Renewable,6019.49,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Solar,Renewable,106.14,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by Wind,Renewable,681.81,GWh
+2026-07-01,2026,7,Jul,Electricity Generation by bagasse,Renewable,45.88,GWh
